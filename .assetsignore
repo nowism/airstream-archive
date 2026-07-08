@@ -1,0 +1,15 @@
+# Files/folders here are NOT uploaded to Cloudflare as site assets.
+# Everything except index.html + assets/ css/ data/ js/ is excluded.
+.git
+.gitignore
+.assetsignore
+wrangler.toml
+.wrangler
+.dev.vars
+.claude
+scripts
+node_modules
+*.md
+.DS_Store
+**/.DS_Store
+Thumbs.db

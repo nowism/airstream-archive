@@ -1,0 +1,151 @@
+{
+  "caravansIntro": "Wally Byam didn't just build trailers — he built a community, and then he pointed it at the horizon. From the 1950s on, he led grand caravans of Airstreams across continents, proving the promise stamped into every rivet: that you could take the comforts of home absolutely anywhere.",
+  "caravans": [
+    {
+      "id": "central-america",
+      "years": "1951",
+      "name": "The First Caravan — Central America",
+      "route": "Mexico → Guatemala → Nicaragua",
+      "blurb": "Byam led his first grand caravan south through Mexico and into Central America. Roads were rough and gas was scarce, but the convoy made it — and in the process turned a scattering of owners into a travelling club that would soon circle the globe.",
+      "images": [
+        { "file": "assets/ads/Mexico1.jpg", "caption": "On the road in Mexico", "credit": "Personal collection" },
+        { "file": "assets/ads/Nicaragua.jpg", "caption": "The caravan in Nicaragua", "credit": "Personal collection" }
+      ]
+    },
+    {
+      "id": "europe",
+      "years": "1956",
+      "name": "The European Caravan",
+      "route": "Across Europe to the French Riviera",
+      "blurb": "Byam shipped Airstreams across the Atlantic and led a caravan through post-war Europe — a line of gleaming American aluminum winding past castles and along the Mediterranean coast. Nothing did more to plant the Airstream flag on the world stage.",
+      "images": [
+        { "file": "assets/ads/Trailers__1956_Caravaner.jpg", "caption": "The 1956 Caravaner", "credit": "Personal collection" },
+        { "file": "assets/ads/Trailers_1957_Airstream_Caravaner__Pict0001.jpg", "caption": "On the European caravan", "credit": "Personal collection" }
+      ]
+    },
+    {
+      "id": "cape-to-cairo",
+      "years": "1959–1960",
+      "name": "Cape Town to Cairo",
+      "route": "The length of Africa — roughly 14,000 miles",
+      "blurb": "The most storied journey of all. A caravan drove the entire length of the African continent, from Cape Town to Cairo, over roughly seven months and some 14,000 miles of desert, bush and mountain. It inspired a book of the same name and cemented the Airstream as a symbol of going anywhere on earth.",
+      "images": [
+        { "file": "assets/ads/Africa1.jpg", "caption": "On the African caravan", "credit": "Personal collection" },
+        { "file": "assets/ads/Africa2.jpg", "caption": "Crossing Africa", "credit": "Personal collection" },
+        { "file": "assets/ads/1957_Africa_Rally.jpg", "caption": "An Africa rally gathering", "credit": "Personal collection" }
+      ]
+    },
+    {
+      "id": "around-the-world",
+      "years": "1963–1964",
+      "name": "The Around-the-World Caravan",
+      "route": "Across Asia, the Middle East and Europe",
+      "blurb": "Wally Byam died in 1962, but the club he built carried on in his honor — completing an around-the-world caravan that carried his creed across continents. It was the ultimate proof of his idea: that the great wide world really could be your doorstep.",
+      "images": [
+        { "file": "assets/ads/Trailers_1957_Airstream_Caravaner__Pict0006.jpg", "caption": "The caravanning spirit", "credit": "Personal collection" }
+      ]
+    }
+  ],
+  "glossaryIntro": "Every hobby has its own language, and vintage Airstreams have a rich one. Here's a field guide to the terms you'll meet in the forums, at rallies and in restoration threads.",
+  "glossary": [
+    { "term": "Monocoque", "def": "The aircraft-inspired construction where the riveted aluminum skin is itself structural — no heavy internal frame. It's why an Airstream is so light and so strong." },
+    { "term": "Banana lights", "def": "The long, curved amber marker lights used on certain vintage years. Their shape is a quick way to help date an older trailer." },
+    { "term": "Endcap", "def": "The rounded front or rear panel of the shell. Original, undamaged endcaps are prized because they're hard to reproduce." },
+    { "term": "Curbside / Streetside", "def": "The two sides of the trailer: 'curbside' is the door (curb) side, 'streetside' faces traffic. Owners use these instead of left/right." },
+    { "term": "Gaucho", "def": "A bench sofa that pulls out into a bed — a space-saving staple of vintage Airstream interiors." },
+    { "term": "Univolt", "def": "Airstream's onboard 12-volt power converter/charger. 'My Univolt died' is vintage-owner shorthand for a power problem." },
+    { "term": "Shell-off restoration", "def": "The deep kind: lifting the entire aluminum shell off the frame to repair the floor, chassis and belly before reassembly." },
+    { "term": "Belly pan", "def": "The aluminum sheeting that encloses the underside of the trailer, protecting insulation, wiring and plumbing." },
+    { "term": "A-frame", "def": "The triangular front frame that carries the hitch, propane tanks and battery." },
+    { "term": "Rock guard", "def": "The protective panel or stone shield across the front of the trailer, guarding the endcap and windows from road debris." },
+    { "term": "Vista View windows", "def": "The wrap-around front windows that give the pilot's-cabin view many classic Airstreams are loved for." },
+    { "term": "Land Yacht", "def": "The affectionate nickname for a big Airstream — later an official name for the motorhome line." },
+    { "term": "Silver bullet / Silver Twinkie", "def": "Two of the fond nicknames owners give the polished aluminum shell." },
+    { "term": "Boondocking", "def": "Camping off-grid with no hookups — running on your own water, battery and (increasingly) solar. Also called dry camping." },
+    { "term": "Dinette", "def": "A booth-style table-and-seat set that folds down into an extra bed." },
+    { "term": "Wet bath", "def": "A compact bathroom where the shower shares the space with the toilet — common in smaller models like the Basecamp." },
+    { "term": "Delamination", "def": "When layered materials — like a subfloor or a skin panel — separate over time from moisture. A key thing to check when buying vintage." },
+    { "term": "Subfloor rot", "def": "Water damage to the wooden floor beneath the shell — the most common serious problem in an unrestored vintage trailer." },
+    { "term": "Buck rivet", "def": "A solid rivet 'bucked' (hammered) during assembly, as opposed to a pop rivet. Original Airstreams are full of them." },
+    { "term": "Clearcoat vs. polished", "def": "Modern shells wear a protective clearcoat; strip it (or start with a bare vintage shell) and you can hand-polish the aluminum to a mirror." },
+    { "term": "Tongue / hitch weight", "def": "The downward weight the trailer's coupler puts on the tow ball — critical for safe, stable towing." },
+    { "term": "GVWR", "def": "Gross Vehicle Weight Rating: the most the loaded trailer is rated to weigh. Always stamped on the data plate." },
+    { "term": "Jackson Center", "def": "The small Ohio town that has been Airstream's factory home since 1952." },
+    { "term": "WBCCI", "def": "The Wally Byam Caravan Club International — the official owners club, founded in 1955, with a thriving vintage community." },
+    { "term": "Caravanning", "def": "Travelling as an organized convoy — the group-adventure tradition Wally Byam turned into the heart of Airstream culture." },
+    { "term": "Vintage", "def": "In the Airstream world, generally a trailer built before 1980 — old enough to qualify for the Vintage Airstream Club." }
+  ],
+  "stoves": {
+    "eyebrow": "The perfect Airstream heat source",
+    "company": "Navigator Stove Works · Orcas Island, WA",
+    "intro": "On a quiet corner of Orcas Island in Washington's San Juans, Navigator Stove Works casts some of the most charming heat sources on earth — tiny, jewel-like cast-iron stoves, built the old way, one at a time, to order. Their little fireboxes were born on fishing boats (the Little Cod design dates to around 1917), which makes them almost perfectly suited to that other great small silver space: an Airstream.",
+    "why": "A cast-iron stove gives an Airstream something no forced-air furnace can — silent, batteryless radiant heat, a dry cabin on a wet night, and a real flame behind glass that turns a trailer into a cabin. Because these stoves are sized for boat berths, they slip into the tight footprint of a vintage trailer; and because the solid-fuel and diesel models need no electricity, they're a boondocker's dream. Navigator's in-house porcelain enamel comes in colors that look right at home against polished aluminum.",
+    "safety": "A real fire in a small space demands respect: any installation needs a properly insulated flue, correct clearances to combustibles, a fresh-air source, and a carbon-monoxide detector. Navigator can advise — it's worth doing right.",
+    "loveHeading": "Why we love these",
+    "love": "In a world of plastic RV furnaces that roar to life at 3 a.m. and quit the moment the battery dies, a Navigator stove is the glorious opposite: silent, self-reliant, and beautiful. There is nothing like waking in a silver trailer to a fire you built yourself — a kettle ticking on cast iron, frost sliding off the windows, the whole cabin dry and warm. These are heirloom objects that happen to heat a room, and to our eye they're the single most romantic upgrade you can make to an Airstream.",
+    "disclosure": "We aren't paid to say any of this — Navigator Stove Works doesn't sponsor this site. We just think their work is wonderful and worth knowing about.",
+    "links": [
+      { "label": "Navigator Stove Works", "url": "https://www.marinestove.com/" },
+      { "label": "Prices & how to order", "url": "https://www.marinestove.com/orderinfo.htm" }
+    ],
+    "credit": "Stove photographs © Navigator Stove Works, Orcas Island, WA — featured here with admiration; all products are theirs.",
+    "models": [
+      {
+        "name": "Sardine",
+        "tagline": "The littlest of the lineup",
+        "price": "$1,670",
+        "dims": "12 × 12 × 11 in · 35 lb",
+        "fuel": "Solid fuel or pellets",
+        "btu": "7,500–18,000 BTU · 86% efficient",
+        "blurb": "About two-thirds the size of the Little Cod, and the natural pick for a compact trailer. An 11 × 8-inch cook top means you can keep a kettle going while it warms the cabin — all from a stove that weighs less than a passenger.",
+        "url": "https://www.marinestove.com/sardineinfo.htm",
+        "images": [
+          { "file": "https://www.marinestove.com/Plain%20Sardine%20Tiny%20Home.jpg", "caption": "The Sardine in a tiny home" },
+          { "file": "https://www.marinestove.com/Ojdrovich%20RED%20Web.jpg", "caption": "Sardine in red porcelain enamel" }
+        ]
+      },
+      {
+        "name": "Little Cod",
+        "tagline": "The heritage classic",
+        "price": "$2,155",
+        "dims": "18 W × 13.75 D × 11.4 in H · 55 lb",
+        "fuel": "Solid fuel or pellets",
+        "btu": "10,000–28,000 BTU",
+        "blurb": "First cast around 1917 for fishermen, the Little Cod is the do-everything small stove: enough output for a big trailer, a proper cook surface, and a silhouette that's pure heritage. If you buy one Navigator stove for an Airstream, it's usually this.",
+        "url": "https://www.marinestove.com/codinfo.htm",
+        "images": [
+          { "file": "https://www.marinestove.com/codbluedecknoglass.jpg", "caption": "The Little Cod" },
+          { "file": "https://www.marinestove.com/Stanley%20WEB%20COD.jpg", "caption": "Little Cod, installed" }
+        ]
+      },
+      {
+        "name": "Halibut",
+        "tagline": "The flagship cook stove",
+        "price": "$5,500",
+        "dims": "20.75 W × 16 D × 15.5 in H · 175 lb",
+        "fuel": "Solid fuel or pellets · with oven",
+        "btu": "25,000–35,000 BTU",
+        "blurb": "A true cook stove with a 9-inch oven, shaker grate, and glass firebox door. Heavy and best for a larger, mostly-parked Airstream or an off-grid basecamp — but you can bake bread while it heats the whole place.",
+        "url": "https://www.marinestove.com/halibutinfo.htm",
+        "images": [
+          { "file": "https://www.marinestove.com/SkinnerHalibut.jpg", "caption": "The Halibut cook stove" },
+          { "file": "https://www.marinestove.com/halibutopenoven.jpg", "caption": "Halibut with the oven open" }
+        ]
+      },
+      {
+        "name": "Herring",
+        "tagline": "Diesel, no electricity",
+        "price": "$3,385",
+        "dims": "12 W × 13 in D · 55 lb",
+        "fuel": "Diesel / biodiesel · blue-flame",
+        "btu": "up to ~20,000 BTU",
+        "blurb": "For those who'd rather not tend wood: a natural-draft diesel/biodiesel stove with a blue-flame burner and no electrical parts. Set-and-forget warmth from the same fuel that might run your tow vehicle.",
+        "url": "https://www.marinestove.com/herringinfo.htm",
+        "images": [
+          { "file": "https://www.marinestove.com/herringstraighton.jpg", "caption": "The Herring diesel stove" },
+          { "file": "https://www.marinestove.com/HerringHanoverRed.jpg", "caption": "Herring in Hanover red" }
+        ]
+      }
+    ]
+  }
+}

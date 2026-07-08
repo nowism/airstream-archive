@@ -1,0 +1,6088 @@
+{
+ "meta": {
+  "source": "Personal collection — 'Curved Beauties in Silver' vintage Airstream ad archive",
+  "count": 868,
+  "yearRange": [
+   1932,
+   1991
+  ]
+ },
+ "ads": [
+  {
+   "file": "assets/ads/1932.jpg",
+   "year": 1932,
+   "label": "1932",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1932_Airstream.jpg",
+   "year": 1932,
+   "label": "1932 Airstream",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1935.jpg",
+   "year": 1935,
+   "label": "1935",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1935_Trailer_Show.JPG",
+   "year": 1935,
+   "label": "1935 Trailer Show",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1936_Clipper__1.jpg",
+   "year": 1936,
+   "label": "1",
+   "folder": "Trailers/1936 Clipper",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1936.jpg",
+   "year": 1936,
+   "label": "1936",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1936_Airstream_Clipper.jpg",
+   "year": 1936,
+   "label": "1936 Airstream Clipper",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1936_Clipper__1936_Clipper.JPG",
+   "year": 1936,
+   "label": "1936 Clipper",
+   "folder": "Trailers/1936 Clipper",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1936_Clipper__2.jpg",
+   "year": 1936,
+   "label": "2",
+   "folder": "Trailers/1936 Clipper",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1937_interior.jpg",
+   "year": 1937,
+   "label": "1937 interior",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1939_Airstream.jpg",
+   "year": 1939,
+   "label": "1939 Airstream",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1948_JAN.jpg",
+   "year": 1948,
+   "label": "1948 JAN",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1948.jpg",
+   "year": 1948,
+   "label": "1948",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1948_22ft_Clipper.jpg",
+   "year": 1948,
+   "label": "1948 22ft Clipper",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1948_22ft_Clipper_front_end.jpg",
+   "year": 1948,
+   "label": "1948 22ft Clipper front end",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1948_22ft_Clipper_rear.jpg",
+   "year": 1948,
+   "label": "1948 22ft Clipper rear",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1948_ad.jpg",
+   "year": 1948,
+   "label": "1948 ad",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1949_Feb.jpg",
+   "year": 1949,
+   "label": "1949 Feb",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1949_model.jpg",
+   "year": 1949,
+   "label": "1949 model",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1950_APRIL.jpg",
+   "year": 1950,
+   "label": "1950 APRIL",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1950_Sept.jpg",
+   "year": 1950,
+   "label": "1950 Sept",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1950_Oct_.jpg",
+   "year": 1950,
+   "label": "1950 (Oct)",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1950_OCT.jpg",
+   "year": 1950,
+   "label": "1950 OCT",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1950_OCTOBER.jpg",
+   "year": 1950,
+   "label": "1950 OCTOBER",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1950Airstream24Tradewinds__1950_24ft_Airstream.jpg",
+   "year": 1950,
+   "label": "1950 24ft Airstream",
+   "folder": "Trailers/1950Airstream24Tradewinds",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1950_Airstream.jpg",
+   "year": 1950,
+   "label": "1950 Airstream",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1950Airstream24Tradewinds__1950a.jpg",
+   "year": 1950,
+   "label": "1950a",
+   "folder": "Trailers/1950Airstream24Tradewinds",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1950Airstream24Tradewinds__1950b.jpg",
+   "year": 1950,
+   "label": "1950b",
+   "folder": "Trailers/1950Airstream24Tradewinds",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1950Airstream24Tradewinds__1950c.jpg",
+   "year": 1950,
+   "label": "1950c",
+   "folder": "Trailers/1950Airstream24Tradewinds",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1950Airstream24Tradewinds__1950d.jpg",
+   "year": 1950,
+   "label": "1950d",
+   "folder": "Trailers/1950Airstream24Tradewinds",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1950_22ft_Airstream__63_1_b.jpg",
+   "year": 1950,
+   "label": "63 1 b",
+   "folder": "Trailers/1950 22ft Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1950_22ft_Airstream__64_1.jpg",
+   "year": 1950,
+   "label": "64 1",
+   "folder": "Trailers/1950 22ft Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1950_22ft_Airstream__73_1.jpg",
+   "year": 1950,
+   "label": "73 1",
+   "folder": "Trailers/1950 22ft Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1950_22ft_Airstream__8b_1.jpg",
+   "year": 1950,
+   "label": "8b 1",
+   "folder": "Trailers/1950 22ft Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1950_22ft_Airstream__94_1.jpg",
+   "year": 1950,
+   "label": "94 1",
+   "folder": "Trailers/1950 22ft Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1950_22ft_Airstream__b7_1.jpg",
+   "year": 1950,
+   "label": "b7 1",
+   "folder": "Trailers/1950 22ft Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1950_22ft_Airstream__d9_1.jpg",
+   "year": 1950,
+   "label": "d9 1",
+   "folder": "Trailers/1950 22ft Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1950_22ft_Airstream__e8_1.jpg",
+   "year": 1950,
+   "label": "e8 1",
+   "folder": "Trailers/1950 22ft Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1952_OCT.jpg",
+   "year": 1952,
+   "label": "1952 OCT",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1952_October.jpg",
+   "year": 1952,
+   "label": "1952 October",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1953_JAN.jpg",
+   "year": 1953,
+   "label": "1953 JAN",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1953_March.jpg",
+   "year": 1953,
+   "label": "1953 March",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1953_Model.jpg",
+   "year": 1953,
+   "label": "1953 Model",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1953_Specs.jpg",
+   "year": 1953,
+   "label": "1953 Specs",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Toys_Misc__1953airstream1.jpg",
+   "year": 1953,
+   "label": "1953airstream1",
+   "folder": "Toys & Misc",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Toys_Misc__1953airstream2.jpg",
+   "year": 1953,
+   "label": "1953airstream2",
+   "folder": "Toys & Misc",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1953airstream22ft.jpg",
+   "year": 1953,
+   "label": "1953airstream22ft",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1954_JAN.jpg",
+   "year": 1954,
+   "label": "1954 JAN",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1954_JAN_2.jpg",
+   "year": 1954,
+   "label": "1954 JAN 2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1954_JANUARY_article.jpg",
+   "year": 1954,
+   "label": "1954 JANUARY article",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1954_JUNE.jpg",
+   "year": 1954,
+   "label": "1954 JUNE",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1954_Oct_.jpg",
+   "year": 1954,
+   "label": "1954 (Oct)",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1954_Oct_Holiday.jpg",
+   "year": 1954,
+   "label": "1954 (Oct) Holiday",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1954_OCTOBER.jpg",
+   "year": 1954,
+   "label": "1954 OCTOBER",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1954_Nov_a.jpg",
+   "year": 1954,
+   "label": "1954 (Nov)a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1954_Nov_b.jpg",
+   "year": 1954,
+   "label": "1954 (Nov)b",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1954_Brochure__001.jpg",
+   "year": 1954,
+   "label": "001",
+   "folder": "1954 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure__002.jpg",
+   "year": 1954,
+   "label": "002",
+   "folder": "1954 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure__003.jpg",
+   "year": 1954,
+   "label": "003",
+   "folder": "1954 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure__004.jpg",
+   "year": 1954,
+   "label": "004",
+   "folder": "1954 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure__005.jpg",
+   "year": 1954,
+   "label": "005",
+   "folder": "1954 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure__006.jpg",
+   "year": 1954,
+   "label": "006",
+   "folder": "1954 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure__007.jpg",
+   "year": 1954,
+   "label": "007",
+   "folder": "1954 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure__008.jpg",
+   "year": 1954,
+   "label": "008",
+   "folder": "1954 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure__009.jpg",
+   "year": 1954,
+   "label": "009",
+   "folder": "1954 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure_Jan__01.jpg",
+   "year": 1954,
+   "label": "01",
+   "folder": "1954 Brochure (Jan)",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure__010.jpg",
+   "year": 1954,
+   "label": "010",
+   "folder": "1954 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure__011.jpg",
+   "year": 1954,
+   "label": "011",
+   "folder": "1954 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure__012.jpg",
+   "year": 1954,
+   "label": "012",
+   "folder": "1954 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure__013.jpg",
+   "year": 1954,
+   "label": "013",
+   "folder": "1954 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure__014.jpg",
+   "year": 1954,
+   "label": "014",
+   "folder": "1954 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure__015.jpg",
+   "year": 1954,
+   "label": "015",
+   "folder": "1954 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure__016.jpg",
+   "year": 1954,
+   "label": "016",
+   "folder": "1954 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure__017.jpg",
+   "year": 1954,
+   "label": "017",
+   "folder": "1954 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure__018.jpg",
+   "year": 1954,
+   "label": "018",
+   "folder": "1954 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure__019.jpg",
+   "year": 1954,
+   "label": "019",
+   "folder": "1954 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure_Jan__02.jpg",
+   "year": 1954,
+   "label": "02",
+   "folder": "1954 Brochure (Jan)",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure_Jan__03.jpg",
+   "year": 1954,
+   "label": "03",
+   "folder": "1954 Brochure (Jan)",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure_Jan__04.jpg",
+   "year": 1954,
+   "label": "04",
+   "folder": "1954 Brochure (Jan)",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/Trailers_1954_Airstream_30ft__05_1.jpg",
+   "year": 1954,
+   "label": "05 1",
+   "folder": "Trailers/1954 Airstream 30ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1954art1a.jpg",
+   "year": 1954,
+   "label": "1954art1a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1954art1b.jpg",
+   "year": 1954,
+   "label": "1954art1b",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1954_Airstream_30ft__2b_1.jpg",
+   "year": 1954,
+   "label": "2b 1",
+   "folder": "Trailers/1954 Airstream 30ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1954_Airstream_30ft__4d_1.jpg",
+   "year": 1954,
+   "label": "4d 1",
+   "folder": "Trailers/1954 Airstream 30ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1954_Airstream_30ft__65_1.jpg",
+   "year": 1954,
+   "label": "65 1",
+   "folder": "Trailers/1954 Airstream 30ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1954_Airstream_30ft__73_1.jpg",
+   "year": 1954,
+   "label": "73 1",
+   "folder": "Trailers/1954 Airstream 30ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1954_Airstream_30ft__7d_1_b.jpg",
+   "year": 1954,
+   "label": "7d 1 b",
+   "folder": "Trailers/1954 Airstream 30ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1954_Airstream_30ft__83_1.jpg",
+   "year": 1954,
+   "label": "83 1",
+   "folder": "Trailers/1954 Airstream 30ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1954_Airstream_30ft__8a_1.jpg",
+   "year": 1954,
+   "label": "8a 1",
+   "folder": "Trailers/1954 Airstream 30ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1954_Airstream_30ft__a3_1.jpg",
+   "year": 1954,
+   "label": "a3 1",
+   "folder": "Trailers/1954 Airstream 30ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1954_Airstream_30ft__e0_1.jpg",
+   "year": 1954,
+   "label": "e0 1",
+   "folder": "Trailers/1954 Airstream 30ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1954_Airstream_30ft__fb_1.jpg",
+   "year": 1954,
+   "label": "fb 1",
+   "folder": "Trailers/1954 Airstream 30ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1954_Brochure_Jan__plan1.jpg",
+   "year": 1954,
+   "label": "plan1",
+   "folder": "1954 Brochure (Jan)",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure_Jan__plan2.jpg",
+   "year": 1954,
+   "label": "plan2",
+   "folder": "1954 Brochure (Jan)",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure_Jan__plan3.jpg",
+   "year": 1954,
+   "label": "plan3",
+   "folder": "1954 Brochure (Jan)",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1954_Brochure_Jan__plan4.jpg",
+   "year": 1954,
+   "label": "plan4",
+   "folder": "1954 Brochure (Jan)",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1955_Jan.jpg",
+   "year": 1955,
+   "label": "1955 Jan",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_Feb_1.jpg",
+   "year": 1955,
+   "label": "1955 (Feb)1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_Feb_2.jpg",
+   "year": 1955,
+   "label": "1955 (Feb)2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_FEB.jpg",
+   "year": 1955,
+   "label": "1955 FEB",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_March.jpg",
+   "year": 1955,
+   "label": "1955 March",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_March_Ad.jpg",
+   "year": 1955,
+   "label": "1955 March Ad",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_March_Ad1.jpg",
+   "year": 1955,
+   "label": "1955 March Ad1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_April.jpg",
+   "year": 1955,
+   "label": "1955 April",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_MAY.jpg",
+   "year": 1955,
+   "label": "1955 MAY",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_June_.jpg",
+   "year": 1955,
+   "label": "1955 (June)",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_July_a.jpg",
+   "year": 1955,
+   "label": "1955 (July)a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_July_b.jpg",
+   "year": 1955,
+   "label": "1955 (July)b",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_July_Article1.jpg",
+   "year": 1955,
+   "label": "1955 July Article1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_July_Article2.jpg",
+   "year": 1955,
+   "label": "1955 July Article2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_July1.jpg",
+   "year": 1955,
+   "label": "1955 July1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_July2.jpg",
+   "year": 1955,
+   "label": "1955 July2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_August.jpg",
+   "year": 1955,
+   "label": "1955 August",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_Sept1.jpg",
+   "year": 1955,
+   "label": "1955 Sept1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_Sept2.jpg",
+   "year": 1955,
+   "label": "1955 Sept2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_Sept3.jpg",
+   "year": 1955,
+   "label": "1955 Sept3",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_OCTOBER.jpg",
+   "year": 1955,
+   "label": "1955 OCTOBER",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_Nov.jpg",
+   "year": 1955,
+   "label": "1955 Nov",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_NOV_2.jpg",
+   "year": 1955,
+   "label": "1955 NOV 2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_DEC.jpg",
+   "year": 1955,
+   "label": "1955 DEC",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955_Airstream__0f_3.jpg",
+   "year": 1955,
+   "label": "0f 3",
+   "folder": "Trailers/1955 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955.jpg",
+   "year": 1955,
+   "label": "1955",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__1955_2.jpg",
+   "year": 1955,
+   "label": "1955 2",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__1955_Airstream.jpg",
+   "year": 1955,
+   "label": "1955 Airstream",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_Model.jpg",
+   "year": 1955,
+   "label": "1955 Model",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1955_Specs.jpg",
+   "year": 1955,
+   "label": "1955 Specs",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955_Airstream__2e_3.jpg",
+   "year": 1955,
+   "label": "2e 3",
+   "folder": "Trailers/1955 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955_Airstream__3e_3.jpg",
+   "year": 1955,
+   "label": "3e 3",
+   "folder": "Trailers/1955 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955_Airstream__40_3.jpg",
+   "year": 1955,
+   "label": "40 3",
+   "folder": "Trailers/1955 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955_Airstream__55_3.jpg",
+   "year": 1955,
+   "label": "55 3",
+   "folder": "Trailers/1955 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955_Airstream__5a_3.jpg",
+   "year": 1955,
+   "label": "5a 3",
+   "folder": "Trailers/1955 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955_Airstream__77_3.jpg",
+   "year": 1955,
+   "label": "77 3",
+   "folder": "Trailers/1955 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955_Airstream__78_3.jpg",
+   "year": 1955,
+   "label": "78 3",
+   "folder": "Trailers/1955 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955_Airstream__91_3.jpg",
+   "year": 1955,
+   "label": "91 3",
+   "folder": "Trailers/1955 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955_Airstream__b8_3.jpg",
+   "year": 1955,
+   "label": "b8 3",
+   "folder": "Trailers/1955 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955Airstream22Safari2__Bath.jpg",
+   "year": 1955,
+   "label": "Bath",
+   "folder": "Trailers/1955Airstream22Safari2",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955Airstream22Safari1__Bathnew.jpg",
+   "year": 1955,
+   "label": "Bathnew",
+   "folder": "Trailers/1955Airstream22Safari1",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955_Airstream__d0_3.jpg",
+   "year": 1955,
+   "label": "d0 3",
+   "folder": "Trailers/1955 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955Airstream22Safari2__DS.jpg",
+   "year": 1955,
+   "label": "DS",
+   "folder": "Trailers/1955Airstream22Safari2",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955Airstream22Safari2__DSF.jpg",
+   "year": 1955,
+   "label": "DSF",
+   "folder": "Trailers/1955Airstream22Safari2",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955Airstream22Safari2__ExtF.jpg",
+   "year": 1955,
+   "label": "ExtF",
+   "folder": "Trailers/1955Airstream22Safari2",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955Airstream22Safari2__ExtODS.jpg",
+   "year": 1955,
+   "label": "ExtODS",
+   "folder": "Trailers/1955Airstream22Safari2",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955Airstream22Safari2__InF.jpg",
+   "year": 1955,
+   "label": "InF",
+   "folder": "Trailers/1955Airstream22Safari2",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955Airstream22Safari2__InR.jpg",
+   "year": 1955,
+   "label": "InR",
+   "folder": "Trailers/1955Airstream22Safari2",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955Airstream22Safari1__IntR.jpg",
+   "year": 1955,
+   "label": "IntR",
+   "folder": "Trailers/1955Airstream22Safari1",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955Airstream22Safari1__Kit.jpg",
+   "year": 1955,
+   "label": "Kit",
+   "folder": "Trailers/1955Airstream22Safari1",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955Airstream22Safari2__Kit.jpg",
+   "year": 1955,
+   "label": "Kit",
+   "folder": "Trailers/1955Airstream22Safari2",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955Airstream22Safari2__Rear.jpg",
+   "year": 1955,
+   "label": "Rear",
+   "folder": "Trailers/1955Airstream22Safari2",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1955Airstream22Safari1__Table2.jpg",
+   "year": 1955,
+   "label": "Table2",
+   "folder": "Trailers/1955Airstream22Safari1",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_FEB.jpg",
+   "year": 1956,
+   "label": "1956 FEB",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_March_.jpg",
+   "year": 1956,
+   "label": "1956 (March)",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_APRIL.jpg",
+   "year": 1956,
+   "label": "1956 APRIL",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_May_a.jpg",
+   "year": 1956,
+   "label": "1956 (May)a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_May_b.jpg",
+   "year": 1956,
+   "label": "1956 (May)b",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_May.jpg",
+   "year": 1956,
+   "label": "1956 May",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_MAY_3.jpg",
+   "year": 1956,
+   "label": "1956 MAY 3",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1956_MAY_art1.jpg",
+   "year": 1956,
+   "label": "1956 MAY art1",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1956_MAY_art2.jpg",
+   "year": 1956,
+   "label": "1956 MAY art2",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_June_.jpg",
+   "year": 1956,
+   "label": "1956 (June)",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_JULY_models.jpg",
+   "year": 1956,
+   "label": "1956 JULY models",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_AUG.jpg",
+   "year": 1956,
+   "label": "1956 AUG",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_August.jpg",
+   "year": 1956,
+   "label": "1956 August",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_SEPT_ad.jpg",
+   "year": 1956,
+   "label": "1956 SEPT ad",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_SEPT_models.jpg",
+   "year": 1956,
+   "label": "1956 SEPT models",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_Oct.jpg",
+   "year": 1956,
+   "label": "1956 Oct",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_Nov.jpg",
+   "year": 1956,
+   "label": "1956 Nov",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_NOV_2.jpg",
+   "year": 1956,
+   "label": "1956 NOV 2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_NOV_3.jpg",
+   "year": 1956,
+   "label": "1956 NOV 3",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_NOV_article.jpg",
+   "year": 1956,
+   "label": "1956 NOV article",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_NOVEMBER.jpg",
+   "year": 1956,
+   "label": "1956 NOVEMBER",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_Airstream__03_3.jpg",
+   "year": 1956,
+   "label": "03 3",
+   "folder": "Trailers/1956 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_Airstream__05_3.jpg",
+   "year": 1956,
+   "label": "05 3",
+   "folder": "Trailers/1956 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_22ft_Safari__19_1.jpg",
+   "year": 1956,
+   "label": "19 1",
+   "folder": "Trailers/1956 22ft Safari",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956.jpg",
+   "year": 1956,
+   "label": "1956",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_30ft.jpg",
+   "year": 1956,
+   "label": "1956 30ft",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_Airlifts.jpg",
+   "year": 1956,
+   "label": "1956 Airlifts",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__1956_Caravaner.jpg",
+   "year": 1956,
+   "label": "1956 Caravaner",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_model.jpg",
+   "year": 1956,
+   "label": "1956 model",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_model_2.jpg",
+   "year": 1956,
+   "label": "1956 model 2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_Rally.jpg",
+   "year": 1956,
+   "label": "1956 Rally",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1956_specs.jpg",
+   "year": 1956,
+   "label": "1956 specs",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__1956air.jpg",
+   "year": 1956,
+   "label": "1956air",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__1956globetraotter-airstream18ft.jpg",
+   "year": 1956,
+   "label": "1956globetraotter-airstream18ft",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_Airstream__38_3.jpg",
+   "year": 1956,
+   "label": "38 3",
+   "folder": "Trailers/1956 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_Airstream__45_3.jpg",
+   "year": 1956,
+   "label": "45 3",
+   "folder": "Trailers/1956 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_Airstream__5f_3.jpg",
+   "year": 1956,
+   "label": "5f 3",
+   "folder": "Trailers/1956 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_Airstream__6f_3.jpg",
+   "year": 1956,
+   "label": "6f 3",
+   "folder": "Trailers/1956 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_Airstream__74_3.jpg",
+   "year": 1956,
+   "label": "74 3",
+   "folder": "Trailers/1956 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_22ft_Safari__8a_1.jpg",
+   "year": 1956,
+   "label": "8a 1",
+   "folder": "Trailers/1956 22ft Safari",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_22ft_Safari__a6_1.jpg",
+   "year": 1956,
+   "label": "a6 1",
+   "folder": "Trailers/1956 22ft Safari",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_Airstream__a9_3.jpg",
+   "year": 1956,
+   "label": "a9 3",
+   "folder": "Trailers/1956 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_Airstream__ab_3.jpg",
+   "year": 1956,
+   "label": "ab 3",
+   "folder": "Trailers/1956 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_22ft_Safari__b9_1.jpg",
+   "year": 1956,
+   "label": "b9 1",
+   "folder": "Trailers/1956 22ft Safari",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_Airstream__cb_3.jpg",
+   "year": 1956,
+   "label": "cb 3",
+   "folder": "Trailers/1956 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_Airstream__d4_3.jpg",
+   "year": 1956,
+   "label": "d4 3",
+   "folder": "Trailers/1956 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_22ft_Safari__df_1_b.jpg",
+   "year": 1956,
+   "label": "df 1 b",
+   "folder": "Trailers/1956 22ft Safari",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_Airstream__f2_3.jpg",
+   "year": 1956,
+   "label": "f2 3",
+   "folder": "Trailers/1956 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_22ft__i-1_B_L.jpg",
+   "year": 1956,
+   "label": "i-1 B L",
+   "folder": "Trailers/1956 22ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_22ft__i-2_B_L.jpg",
+   "year": 1956,
+   "label": "i-2 B L",
+   "folder": "Trailers/1956 22ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_22ft__i-3_B_L.jpg",
+   "year": 1956,
+   "label": "i-3 B L",
+   "folder": "Trailers/1956 22ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_22ft__i-4_B_L.jpg",
+   "year": 1956,
+   "label": "i-4 B L",
+   "folder": "Trailers/1956 22ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_22ft__i-5_B_L.jpg",
+   "year": 1956,
+   "label": "i-5 B L",
+   "folder": "Trailers/1956 22ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_22ft__i-6_B_L.jpg",
+   "year": 1956,
+   "label": "i-6 B L",
+   "folder": "Trailers/1956 22ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_22ft__i-7_B_L.jpg",
+   "year": 1956,
+   "label": "i-7 B L",
+   "folder": "Trailers/1956 22ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_22ft__i-8_B_L.jpg",
+   "year": 1956,
+   "label": "i-8 B L",
+   "folder": "Trailers/1956 22ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1956_22ft__i-9_B_L.jpg",
+   "year": 1956,
+   "label": "i-9 B L",
+   "folder": "Trailers/1956 22ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957_JAN.jpg",
+   "year": 1957,
+   "label": "1957 JAN",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957Jan.jpg",
+   "year": 1957,
+   "label": "1957Jan",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957_FEB.jpg",
+   "year": 1957,
+   "label": "1957 FEB",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957_MARCH.jpg",
+   "year": 1957,
+   "label": "1957 MARCH",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957_APRIL.jpg",
+   "year": 1957,
+   "label": "1957 APRIL",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957_MAY.jpg",
+   "year": 1957,
+   "label": "1957 MAY",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957_MAY_2.jpg",
+   "year": 1957,
+   "label": "1957 MAY 2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957_MAY_ad.jpg",
+   "year": 1957,
+   "label": "1957 MAY ad",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957_June.jpg",
+   "year": 1957,
+   "label": "1957 June",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957_JUNE_ad.jpg",
+   "year": 1957,
+   "label": "1957 JUNE ad",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1957_JUNE_article.jpg",
+   "year": 1957,
+   "label": "1957 JUNE article",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1957_JUNE__1957_JUNE_article1.jpg",
+   "year": 1957,
+   "label": "1957 JUNE article1",
+   "folder": "Articles/1957 JUNE",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1957_JUNE__1957_JUNE_article2.jpg",
+   "year": 1957,
+   "label": "1957 JUNE article2",
+   "folder": "Articles/1957 JUNE",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957_JUNE1.jpg",
+   "year": 1957,
+   "label": "1957 JUNE1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957_JULY_a.jpg",
+   "year": 1957,
+   "label": "1957 JULY a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957_JULY_aa.jpg",
+   "year": 1957,
+   "label": "1957 JULY aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957_SEPT.jpg",
+   "year": 1957,
+   "label": "1957 SEPT",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957_NOV.jpg",
+   "year": 1957,
+   "label": "1957 NOV",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1957_NOV_article.jpg",
+   "year": 1957,
+   "label": "1957 NOV article",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957_DEC_show.jpg",
+   "year": 1957,
+   "label": "1957 DEC show",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957_DEC1.JPG",
+   "year": 1957,
+   "label": "1957 DEC1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1957_Airstream_22ft__06_3.jpg",
+   "year": 1957,
+   "label": "06 3",
+   "folder": "Trailers/1957 Airstream 22ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1957_Airstream_22ft__06_33.jpg",
+   "year": 1957,
+   "label": "06 33",
+   "folder": "Trailers/1957 Airstream 22ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1957_Airstream_22ft__12_3.jpg",
+   "year": 1957,
+   "label": "12 3",
+   "folder": "Trailers/1957 Airstream 22ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957_30ft_model.jpg",
+   "year": 1957,
+   "label": "1957 30ft model",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957_Africa_Rally.jpg",
+   "year": 1957,
+   "label": "1957 Africa Rally",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957_models.jpg",
+   "year": 1957,
+   "label": "1957 models",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957_pic.jpg",
+   "year": 1957,
+   "label": "1957 pic",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957_specs.jpg",
+   "year": 1957,
+   "label": "1957 specs",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1957_specs_2.jpg",
+   "year": 1957,
+   "label": "1957 specs 2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1957_Airstream_22ft__23_3.jpg",
+   "year": 1957,
+   "label": "23 3",
+   "folder": "Trailers/1957 Airstream 22ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1957_Airstream_22ft__28_3.jpg",
+   "year": 1957,
+   "label": "28 3",
+   "folder": "Trailers/1957 Airstream 22ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1957_Airstream_22ft__2b_3.jpg",
+   "year": 1957,
+   "label": "2b 3",
+   "folder": "Trailers/1957 Airstream 22ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1957_Airstream_22ft__2f_3.jpg",
+   "year": 1957,
+   "label": "2f 3",
+   "folder": "Trailers/1957 Airstream 22ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1957_Airstream_22ft__3d_3.jpg",
+   "year": 1957,
+   "label": "3d 3",
+   "folder": "Trailers/1957 Airstream 22ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1957_Airstream_22ft__61_3.jpg",
+   "year": 1957,
+   "label": "61 3",
+   "folder": "Trailers/1957 Airstream 22ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1957_Airstream_22ft__80_3.jpg",
+   "year": 1957,
+   "label": "80 3",
+   "folder": "Trailers/1957 Airstream 22ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1957_Airstream_22ft__95_3.jpg",
+   "year": 1957,
+   "label": "95 3",
+   "folder": "Trailers/1957 Airstream 22ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1957_Airstream_22ft__a4_3.jpg",
+   "year": 1957,
+   "label": "a4 3",
+   "folder": "Trailers/1957 Airstream 22ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1957_Airstream_Caravaner__Pict0001.jpg",
+   "year": 1957,
+   "label": "Pict0001",
+   "folder": "Trailers/1957 Airstream Caravaner",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1957_Airstream_Caravaner__Pict0002.jpg",
+   "year": 1957,
+   "label": "Pict0002",
+   "folder": "Trailers/1957 Airstream Caravaner",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1957_Airstream_Caravaner__Pict0006.jpg",
+   "year": 1957,
+   "label": "Pict0006",
+   "folder": "Trailers/1957 Airstream Caravaner",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1957_Airstream_Caravaner__Pict0061.jpg",
+   "year": 1957,
+   "label": "Pict0061",
+   "folder": "Trailers/1957 Airstream Caravaner",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1957_Airstream_Caravaner__Pict0066.jpg",
+   "year": 1957,
+   "label": "Pict0066",
+   "folder": "Trailers/1957 Airstream Caravaner",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1957_Airstream_Caravaner__Pict0068.jpg",
+   "year": 1957,
+   "label": "Pict0068",
+   "folder": "Trailers/1957 Airstream Caravaner",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Railroad_1957.jpg",
+   "year": 1957,
+   "label": "Railroad 1957",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1957_NOV__Scannen0006.jpg",
+   "year": 1957,
+   "label": "Scannen0006",
+   "folder": "Articles/1957 NOV",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1957_NOV__Scannen0007.jpg",
+   "year": 1957,
+   "label": "Scannen0007",
+   "folder": "Articles/1957 NOV",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1957_NOV__Scannen0008.jpg",
+   "year": 1957,
+   "label": "Scannen0008",
+   "folder": "Articles/1957 NOV",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1957_NOV__Scannen0009.jpg",
+   "year": 1957,
+   "label": "Scannen0009",
+   "folder": "Articles/1957 NOV",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1957_NOV__Scannen0010.jpg",
+   "year": 1957,
+   "label": "Scannen0010",
+   "folder": "Articles/1957 NOV",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1957_NOV__Scannen0011.jpg",
+   "year": 1957,
+   "label": "Scannen0011",
+   "folder": "Articles/1957 NOV",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_Feb_.jpg",
+   "year": 1958,
+   "label": "1958 (Feb)",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1958_FEB_article.jpg",
+   "year": 1958,
+   "label": "1958 FEB article",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_MARCH.jpg",
+   "year": 1958,
+   "label": "1958 MARCH",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_March_Article.jpg",
+   "year": 1958,
+   "label": "1958 March Article",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_March_Cover.jpg",
+   "year": 1958,
+   "label": "1958 March Cover",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_March1.jpg",
+   "year": 1958,
+   "label": "1958 March1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_APRIL.jpg",
+   "year": 1958,
+   "label": "1958 APRIL",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_APRIL_2.jpg",
+   "year": 1958,
+   "label": "1958 APRIL 2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_July.jpg",
+   "year": 1958,
+   "label": "1958 July",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_Sept_.jpg",
+   "year": 1958,
+   "label": "1958 (Sept)",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_Sept.jpg",
+   "year": 1958,
+   "label": "1958 Sept",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_SEPT_Ad.jpg",
+   "year": 1958,
+   "label": "1958 SEPT Ad",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1958_Sept_Art.jpg",
+   "year": 1958,
+   "label": "1958 Sept Art",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1958_NOV__1958_Oct_a.jpg",
+   "year": 1958,
+   "label": "1958 (Oct)a",
+   "folder": "Articles/1958 NOV",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_Oct_b.jpg",
+   "year": 1958,
+   "label": "1958 (Oct)b",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_OCT_ad.jpg",
+   "year": 1958,
+   "label": "1958 OCT ad",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_OCTa.JPG",
+   "year": 1958,
+   "label": "1958 OCTa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_OCTOBER_1.jpg",
+   "year": 1958,
+   "label": "1958 OCTOBER 1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_Nov_.jpg",
+   "year": 1958,
+   "label": "1958 (Nov)",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_Nov_a.jpg",
+   "year": 1958,
+   "label": "1958 (Nov)a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1958_NOV__1958_Nov_b.jpg",
+   "year": 1958,
+   "label": "1958 (Nov)b",
+   "folder": "Articles/1958 NOV",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_NOV.jpg",
+   "year": 1958,
+   "label": "1958 NOV",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_NOVa.jpg",
+   "year": 1958,
+   "label": "1958 NOVa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_NOVb.JPG",
+   "year": 1958,
+   "label": "1958 NOVb",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_Dec_.jpg",
+   "year": 1958,
+   "label": "1958 (Dec)",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_Dec.jpg",
+   "year": 1958,
+   "label": "1958 Dec",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1958_Dec_Art.jpg",
+   "year": 1958,
+   "label": "1958 Dec Art",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1958_AUG__01.JPG",
+   "year": 1958,
+   "label": "01",
+   "folder": "Articles/1958 AUG",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1958_NOV__01.jpg",
+   "year": 1958,
+   "label": "01",
+   "folder": "Articles/1958 NOV",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1958_AUG__02.jpg",
+   "year": 1958,
+   "label": "02",
+   "folder": "Articles/1958 AUG",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1958_NOV__02.jpg",
+   "year": 1958,
+   "label": "02",
+   "folder": "Articles/1958 NOV",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1958_AUG__03.jpg",
+   "year": 1958,
+   "label": "03",
+   "folder": "Articles/1958 AUG",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1958_AUG__04.jpg",
+   "year": 1958,
+   "label": "04",
+   "folder": "Articles/1958 AUG",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1958_AUG__05.jpg",
+   "year": 1958,
+   "label": "05",
+   "folder": "Articles/1958 AUG",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1958_AUG__06.jpg",
+   "year": 1958,
+   "label": "06",
+   "folder": "Articles/1958 AUG",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1958_Airstream__0b_1.jpg",
+   "year": 1958,
+   "label": "0b 1",
+   "folder": "Trailers/1958 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Toys_Misc__1958_Airstream_Model.jpg",
+   "year": 1958,
+   "label": "1958 Airstream Model",
+   "folder": "Toys & Misc",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_Airstream1.jpg",
+   "year": 1958,
+   "label": "1958 Airstream1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_Airstream2.jpg",
+   "year": 1958,
+   "label": "1958 Airstream2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_Article.jpg",
+   "year": 1958,
+   "label": "1958 Article",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_Blackfeet_Indians.jpg",
+   "year": 1958,
+   "label": "1958 Blackfeet Indians",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_INFO.jpg",
+   "year": 1958,
+   "label": "1958 INFO",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_Models.jpg",
+   "year": 1958,
+   "label": "1958 Models",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_Rally.jpg",
+   "year": 1958,
+   "label": "1958 Rally",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_Show_Models.jpg",
+   "year": 1958,
+   "label": "1958 Show Models",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958_specs.jpg",
+   "year": 1958,
+   "label": "1958 specs",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958a.jpg",
+   "year": 1958,
+   "label": "1958a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958a_2.jpg",
+   "year": 1958,
+   "label": "1958a 2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958b.jpg",
+   "year": 1958,
+   "label": "1958b",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958b_2.jpg",
+   "year": 1958,
+   "label": "1958b 2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958c.jpg",
+   "year": 1958,
+   "label": "1958c",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1958d.jpg",
+   "year": 1958,
+   "label": "1958d",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1958_Airstream__37_1.jpg",
+   "year": 1958,
+   "label": "37 1",
+   "folder": "Trailers/1958 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1958_Airstream__3d_1.jpg",
+   "year": 1958,
+   "label": "3d 1",
+   "folder": "Trailers/1958 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1958_Airstream__64_1.jpg",
+   "year": 1958,
+   "label": "64 1",
+   "folder": "Trailers/1958 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1958_Airstream__65_1.jpg",
+   "year": 1958,
+   "label": "65 1",
+   "folder": "Trailers/1958 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1958_Airstream__6d_1.jpg",
+   "year": 1958,
+   "label": "6d 1",
+   "folder": "Trailers/1958 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1958_Airstream__9d_1.jpg",
+   "year": 1958,
+   "label": "9d 1",
+   "folder": "Trailers/1958 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1958_Airstream__b4_1_b.jpg",
+   "year": 1958,
+   "label": "b4 1 b",
+   "folder": "Trailers/1958 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Blackfeet_Indians_1958.jpg",
+   "year": 1958,
+   "label": "Blackfeet Indians 1958",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1958_Airstream__d1_1.jpg",
+   "year": 1958,
+   "label": "d1 1",
+   "folder": "Trailers/1958 Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Wally_Byam_1958.jpg",
+   "year": 1958,
+   "label": "Wally Byam 1958",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_Jan.jpg",
+   "year": 1959,
+   "label": "1959 Jan",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_March.jpg",
+   "year": 1959,
+   "label": "1959 March",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_APRIL.jpg",
+   "year": 1959,
+   "label": "1959 APRIL",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_APRIL_article.jpg",
+   "year": 1959,
+   "label": "1959 APRIL article",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_MAY.jpg",
+   "year": 1959,
+   "label": "1959 MAY",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_MAY_2.jpg",
+   "year": 1959,
+   "label": "1959 MAY 2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1959_May_Article.jpg",
+   "year": 1959,
+   "label": "1959 May Article",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_May_Article_2.jpg",
+   "year": 1959,
+   "label": "1959 May Article 2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_MAY_article1.jpg",
+   "year": 1959,
+   "label": "1959 MAY article1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1959_MAY__1959_MAY1.jpg",
+   "year": 1959,
+   "label": "1959 MAY1",
+   "folder": "Articles/1959 MAY",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1959_MAY__1959_MAY2.jpg",
+   "year": 1959,
+   "label": "1959 MAY2",
+   "folder": "Articles/1959 MAY",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1959_MAY__1959_MAY3.jpg",
+   "year": 1959,
+   "label": "1959 MAY3",
+   "folder": "Articles/1959 MAY",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1959_MAY__1959_MAY4.jpg",
+   "year": 1959,
+   "label": "1959 MAY4",
+   "folder": "Articles/1959 MAY",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_JULY.jpg",
+   "year": 1959,
+   "label": "1959 JULY",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_Sept_.jpg",
+   "year": 1959,
+   "label": "1959 (Sept)",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_Sept_2.jpg",
+   "year": 1959,
+   "label": "1959 (Sept) 2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_SEPT_1.jpg",
+   "year": 1959,
+   "label": "1959 SEPT 1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_SEPT_ARTICLE.jpg",
+   "year": 1959,
+   "label": "1959 SEPT ARTICLE",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_SEPT_article_2.jpg",
+   "year": 1959,
+   "label": "1959 SEPT article 2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_SEPT_pic.jpg",
+   "year": 1959,
+   "label": "1959 SEPT pic",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_SEPT2.jpg",
+   "year": 1959,
+   "label": "1959 SEPT2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_OCT_ad.jpg",
+   "year": 1959,
+   "label": "1959 OCT ad",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1959_NOV__1959_NOV_Art1.jpg",
+   "year": 1959,
+   "label": "1959 NOV Art1",
+   "folder": "Articles/1959 NOV",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1959_NOV__1959_NOV_Art2.jpg",
+   "year": 1959,
+   "label": "1959 NOV Art2",
+   "folder": "Articles/1959 NOV",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1959_NOV__1959_NOV_Art3.jpg",
+   "year": 1959,
+   "label": "1959 NOV Art3",
+   "folder": "Articles/1959 NOV",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_November.jpg",
+   "year": 1959,
+   "label": "1959 November",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1959_OCT__01.jpg",
+   "year": 1959,
+   "label": "01",
+   "folder": "Articles/1959 OCT",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1959_OCT__02.jpg",
+   "year": 1959,
+   "label": "02",
+   "folder": "Articles/1959 OCT",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1959_OCT__03.jpg",
+   "year": 1959,
+   "label": "03",
+   "folder": "Articles/1959 OCT",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1959_OCT__04.jpg",
+   "year": 1959,
+   "label": "04",
+   "folder": "Articles/1959 OCT",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959.jpg",
+   "year": 1959,
+   "label": "1959",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__1959_Airstream.jpg",
+   "year": 1959,
+   "label": "1959 Airstream",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_Airstream_Specs.jpg",
+   "year": 1959,
+   "label": "1959 Airstream Specs",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_Airstream_specs1.jpg",
+   "year": 1959,
+   "label": "1959 Airstream specs1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_Airstream_specs2.jpg",
+   "year": 1959,
+   "label": "1959 Airstream specs2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_Airstream1.jpg",
+   "year": 1959,
+   "label": "1959 Airstream1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Toys_Misc__1959_AirstreamModel.jpg",
+   "year": 1959,
+   "label": "1959 AirstreamModel",
+   "folder": "Toys & Misc",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_Airstreams.jpg",
+   "year": 1959,
+   "label": "1959 Airstreams",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_Airstreams_in_Guatamala.jpg",
+   "year": 1959,
+   "label": "1959 Airstreams in Guatamala",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_Article.jpg",
+   "year": 1959,
+   "label": "1959 Article",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_Kohler_Plant.jpg",
+   "year": 1959,
+   "label": "1959 Kohler Plant",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_Specs1.jpg",
+   "year": 1959,
+   "label": "1959 Specs1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959_Specs2.jpg",
+   "year": 1959,
+   "label": "1959 Specs2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959a.JPG",
+   "year": 1959,
+   "label": "1959a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Toys_Misc__1959airstream_model.jpg",
+   "year": 1959,
+   "label": "1959airstream model",
+   "folder": "Toys & Misc",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1959b.jpg",
+   "year": 1959,
+   "label": "1959b",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1959_Airstream_15ft__5d_3.jpg",
+   "year": 1959,
+   "label": "5d 3",
+   "folder": "Trailers/1959 Airstream 15ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1959_Airstream_15ft__92_3.jpg",
+   "year": 1959,
+   "label": "92 3",
+   "folder": "Trailers/1959 Airstream 15ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1959_Airstream_15ft__bc_3.jpg",
+   "year": 1959,
+   "label": "bc 3",
+   "folder": "Trailers/1959 Airstream 15ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1959_Airstream_15ft__be_3.jpg",
+   "year": 1959,
+   "label": "be 3",
+   "folder": "Trailers/1959 Airstream 15ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1959_Airstream_15ft__ea_3.jpg",
+   "year": 1959,
+   "label": "ea 3",
+   "folder": "Trailers/1959 Airstream 15ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Great_Divide_1959_.jpg",
+   "year": 1959,
+   "label": "Great Divide (1959)",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960_FEB.jpg",
+   "year": 1960,
+   "label": "1960 FEB",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960_March_a.jpg",
+   "year": 1960,
+   "label": "1960 (March)a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960_March_b.jpg",
+   "year": 1960,
+   "label": "1960 (March)b",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960_MARCH.jpg",
+   "year": 1960,
+   "label": "1960 MARCH",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960_April.jpg",
+   "year": 1960,
+   "label": "1960 April",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960_MAY.jpg",
+   "year": 1960,
+   "label": "1960 MAY",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960_JUNE.jpg",
+   "year": 1960,
+   "label": "1960 JUNE",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1960_JUNE__1960_JUNE1.jpg",
+   "year": 1960,
+   "label": "1960 JUNE1",
+   "folder": "Articles/1960 JUNE",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1960_JUNE__1960_JUNE2.jpg",
+   "year": 1960,
+   "label": "1960 JUNE2",
+   "folder": "Articles/1960 JUNE",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960_JULY.jpg",
+   "year": 1960,
+   "label": "1960 JULY",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960_Aug_1.jpg",
+   "year": 1960,
+   "label": "1960 (Aug)1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960_AUG.jpg",
+   "year": 1960,
+   "label": "1960 AUG",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960_AUGUST.jpg",
+   "year": 1960,
+   "label": "1960 AUGUST",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960_AUGUST_a.jpg",
+   "year": 1960,
+   "label": "1960 AUGUST a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960_AUGUST_aa.jpg",
+   "year": 1960,
+   "label": "1960 AUGUST aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1960_AUG__1960_August_Article1.jpg",
+   "year": 1960,
+   "label": "1960 August Article1",
+   "folder": "Articles/1960 AUG",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1960_AUG__1960_August_Article2.jpg",
+   "year": 1960,
+   "label": "1960 August Article2",
+   "folder": "Articles/1960 AUG",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960_Sept.jpg",
+   "year": 1960,
+   "label": "1960 Sept",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960_OCT_cover.jpg",
+   "year": 1960,
+   "label": "1960 OCT cover",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960_Nov.jpg",
+   "year": 1960,
+   "label": "1960 Nov",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960_NOV_2.jpg",
+   "year": 1960,
+   "label": "1960 NOV 2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960_NOV2.jpg",
+   "year": 1960,
+   "label": "1960 NOV2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960_DEC.jpg",
+   "year": 1960,
+   "label": "1960 DEC",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960_December.jpg",
+   "year": 1960,
+   "label": "1960 December",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1960_JUNE__01.jpg",
+   "year": 1960,
+   "label": "01",
+   "folder": "Articles/1960 JUNE",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1960_MAY__01.jpg",
+   "year": 1960,
+   "label": "01",
+   "folder": "Articles/1960 MAY",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960_Brochure__01.jpg",
+   "year": 1960,
+   "label": "01",
+   "folder": "1960 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1960_Brochure__01a.jpg",
+   "year": 1960,
+   "label": "01a",
+   "folder": "1960 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/Articles_1960_JUNE__02.jpg",
+   "year": 1960,
+   "label": "02",
+   "folder": "Articles/1960 JUNE",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1960_MAY__02.jpg",
+   "year": 1960,
+   "label": "02",
+   "folder": "Articles/1960 MAY",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960_Brochure__02.jpg",
+   "year": 1960,
+   "label": "02",
+   "folder": "1960 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1960_Brochure__02a.jpg",
+   "year": 1960,
+   "label": "02a",
+   "folder": "1960 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1960_Brochure__03.jpg",
+   "year": 1960,
+   "label": "03",
+   "folder": "1960 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1960_Brochure__03a.jpg",
+   "year": 1960,
+   "label": "03a",
+   "folder": "1960 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1960-61Brochure__04.jpg",
+   "year": 1960,
+   "label": "04",
+   "folder": "1960-61Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1960-61Brochure__04a.jpg",
+   "year": 1960,
+   "label": "04a",
+   "folder": "1960-61Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1960-61Brochure__05.jpg",
+   "year": 1960,
+   "label": "05",
+   "folder": "1960-61Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1960-61Brochure__05a.jpg",
+   "year": 1960,
+   "label": "05a",
+   "folder": "1960-61Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1960.jpg",
+   "year": 1960,
+   "label": "1960",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960-61Brochure__1960_26ft.jpg",
+   "year": 1960,
+   "label": "1960 26ft",
+   "folder": "1960-61Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/Trailers__1960_Traveler_18ft.jpg",
+   "year": 1960,
+   "label": "1960 Traveler 18ft",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Toys_Misc__1960airstream_toy.jpg",
+   "year": 1960,
+   "label": "1960airstream toy",
+   "folder": "Toys & Misc",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1960-61Brochure__24ft_double.jpg",
+   "year": 1960,
+   "label": "24ft double",
+   "folder": "1960-61Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1960-61Brochure__24ft_twin.jpg",
+   "year": 1960,
+   "label": "24ft twin",
+   "folder": "1960-61Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1960-61Brochure__26ft_double.jpg",
+   "year": 1960,
+   "label": "26ft double",
+   "folder": "1960-61Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1960-61Brochure__26ft_twin.jpg",
+   "year": 1960,
+   "label": "26ft twin",
+   "folder": "1960-61Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/Trailers_1960_Airstream_Pacer__pacer01.jpg",
+   "year": 1960,
+   "label": "pacer01",
+   "folder": "Trailers/1960 Airstream Pacer",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1960_Airstream_Pacer__pacer02.jpg",
+   "year": 1960,
+   "label": "pacer02",
+   "folder": "Trailers/1960 Airstream Pacer",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1960_Airstream_Pacer__pacer03.jpg",
+   "year": 1960,
+   "label": "pacer03",
+   "folder": "Trailers/1960 Airstream Pacer",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1960_Airstream_Pacer__pacer04.jpg",
+   "year": 1960,
+   "label": "pacer04",
+   "folder": "Trailers/1960 Airstream Pacer",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1960_Airstream_Pacer__pacer05.jpg",
+   "year": 1960,
+   "label": "pacer05",
+   "folder": "Trailers/1960 Airstream Pacer",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1960_Airstream_Pacer__pacer06.jpg",
+   "year": 1960,
+   "label": "pacer06",
+   "folder": "Trailers/1960 Airstream Pacer",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1960_Airstream_Pacer__pacer07.jpg",
+   "year": 1960,
+   "label": "pacer07",
+   "folder": "Trailers/1960 Airstream Pacer",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1960_Airstream_Pacer__pacer08.jpg",
+   "year": 1960,
+   "label": "pacer08",
+   "folder": "Trailers/1960 Airstream Pacer",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1960_Airstream_Pacer__pacer09.jpg",
+   "year": 1960,
+   "label": "pacer09",
+   "folder": "Trailers/1960 Airstream Pacer",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1960_Airstream_Pacer__pacer10.jpg",
+   "year": 1960,
+   "label": "pacer10",
+   "folder": "Trailers/1960 Airstream Pacer",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1960_Airstream_Pacer__pacer11.jpg",
+   "year": 1960,
+   "label": "pacer11",
+   "folder": "Trailers/1960 Airstream Pacer",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1960_Airstream_Pacer__pacer12.jpg",
+   "year": 1960,
+   "label": "pacer12",
+   "folder": "Trailers/1960 Airstream Pacer",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1960_Airstream_Pacer__pacer13.jpg",
+   "year": 1960,
+   "label": "pacer13",
+   "folder": "Trailers/1960 Airstream Pacer",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1960_Airstream_Pacer__pacer14.jpg",
+   "year": 1960,
+   "label": "pacer14",
+   "folder": "Trailers/1960 Airstream Pacer",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_Feb_1.jpg",
+   "year": 1961,
+   "label": "1961 (Feb)1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_Feb_2.jpg",
+   "year": 1961,
+   "label": "1961 (Feb)2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_Feb_a.jpg",
+   "year": 1961,
+   "label": "1961 (Feb)a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_Feb_b.jpg",
+   "year": 1961,
+   "label": "1961 (Feb)b",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_FEB.jpg",
+   "year": 1961,
+   "label": "1961 FEB",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_FEB_a_1.jpg",
+   "year": 1961,
+   "label": "1961 FEB a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_Feb_aa.jpg",
+   "year": 1961,
+   "label": "1961 Feb aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_MARCH.jpg",
+   "year": 1961,
+   "label": "1961 MARCH",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_March_a.jpg",
+   "year": 1961,
+   "label": "1961 March a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_March_aa.jpg",
+   "year": 1961,
+   "label": "1961 March aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_MAY.jpg",
+   "year": 1961,
+   "label": "1961 MAY",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_MAY_pic.jpg",
+   "year": 1961,
+   "label": "1961 MAY pic",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_JUNE1.jpg",
+   "year": 1961,
+   "label": "1961 JUNE1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_JUNE2.jpg",
+   "year": 1961,
+   "label": "1961 JUNE2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1961_JULY.jpg",
+   "year": 1961,
+   "label": "1961 JULY",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_JULY_a.jpg",
+   "year": 1961,
+   "label": "1961 JULY a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_JULY_aa.jpg",
+   "year": 1961,
+   "label": "1961 JULY aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_AUG.jpg",
+   "year": 1961,
+   "label": "1961 AUG",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_AUG_pic.jpg",
+   "year": 1961,
+   "label": "1961 AUG pic",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_August.jpg",
+   "year": 1961,
+   "label": "1961 August",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_AUGUST_ad.jpg",
+   "year": 1961,
+   "label": "1961 AUGUST ad",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1961_Sept.jpg",
+   "year": 1961,
+   "label": "1961 Sept",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_SEPT_a.jpg",
+   "year": 1961,
+   "label": "1961 SEPT a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_SEPT_aa.jpg",
+   "year": 1961,
+   "label": "1961 SEPT aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_OCT_a.jpg",
+   "year": 1961,
+   "label": "1961 OCT a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_OCT_aa.jpg",
+   "year": 1961,
+   "label": "1961 OCT aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1961_OCT_article.jpg",
+   "year": 1961,
+   "label": "1961 OCT article",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1961_OCT_article_3.JPG",
+   "year": 1961,
+   "label": "1961 OCT article 3",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_OCT_b.jpg",
+   "year": 1961,
+   "label": "1961 OCT b",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_OCT_bb.jpg",
+   "year": 1961,
+   "label": "1961 OCT bb",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1961_OCTOBER_article.jpg",
+   "year": 1961,
+   "label": "1961 OCTOBER article",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_NOV.jpg",
+   "year": 1961,
+   "label": "1961 NOV",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_NOV_a.jpg",
+   "year": 1961,
+   "label": "1961 NOV a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_NOV_aa.jpg",
+   "year": 1961,
+   "label": "1961 NOV aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_DEC1.jpg",
+   "year": 1961,
+   "label": "1961 DEC1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_DEC2.jpg",
+   "year": 1961,
+   "label": "1961 DEC2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_JAN_Test_Report__01.jpg",
+   "year": 1961,
+   "label": "01",
+   "folder": "Articles/1961 JAN Test Report",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_OCT1__01.jpg",
+   "year": 1961,
+   "label": "01",
+   "folder": "Articles/1961 OCT1",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_JULY_Test_Report__01.jpg",
+   "year": 1961,
+   "label": "01",
+   "folder": "Articles/1961 JULY Test Report",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_NOV__01.jpg",
+   "year": 1961,
+   "label": "01",
+   "folder": "Articles/1961 NOV",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_OCT2__01.jpg",
+   "year": 1961,
+   "label": "01",
+   "folder": "Articles/1961 OCT2",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_SEPT__01.jpg",
+   "year": 1961,
+   "label": "01",
+   "folder": "Articles/1961 SEPT",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_JAN_Test_Report__02.jpg",
+   "year": 1961,
+   "label": "02",
+   "folder": "Articles/1961 JAN Test Report",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_OCT1__02.jpg",
+   "year": 1961,
+   "label": "02",
+   "folder": "Articles/1961 OCT1",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_JULY_Test_Report__02.jpg",
+   "year": 1961,
+   "label": "02",
+   "folder": "Articles/1961 JULY Test Report",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_NOV__02.jpg",
+   "year": 1961,
+   "label": "02",
+   "folder": "Articles/1961 NOV",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_OCT2__02.jpg",
+   "year": 1961,
+   "label": "02",
+   "folder": "Articles/1961 OCT2",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_SEPT__02.jpg",
+   "year": 1961,
+   "label": "02",
+   "folder": "Articles/1961 SEPT",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_JAN_Test_Report__03.jpg",
+   "year": 1961,
+   "label": "03",
+   "folder": "Articles/1961 JAN Test Report",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_OCT1__03.jpg",
+   "year": 1961,
+   "label": "03",
+   "folder": "Articles/1961 OCT1",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_JULY_Test_Report__03.jpg",
+   "year": 1961,
+   "label": "03",
+   "folder": "Articles/1961 JULY Test Report",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_OCT2__03.jpg",
+   "year": 1961,
+   "label": "03",
+   "folder": "Articles/1961 OCT2",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_SEPT__03.jpg",
+   "year": 1961,
+   "label": "03",
+   "folder": "Articles/1961 SEPT",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_JAN_Test_Report__04.jpg",
+   "year": 1961,
+   "label": "04",
+   "folder": "Articles/1961 JAN Test Report",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_JULY_Test_Report__04.jpg",
+   "year": 1961,
+   "label": "04",
+   "folder": "Articles/1961 JULY Test Report",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_SEPT__04.jpg",
+   "year": 1961,
+   "label": "04",
+   "folder": "Articles/1961 SEPT",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_SEPT__05.jpg",
+   "year": 1961,
+   "label": "05",
+   "folder": "Articles/1961 SEPT",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_SEPT__06.jpg",
+   "year": 1961,
+   "label": "06",
+   "folder": "Articles/1961 SEPT",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1961_24ft_Airstream__10_3.jpg",
+   "year": 1961,
+   "label": "10 3",
+   "folder": "Trailers/1961 24ft Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961.jpg",
+   "year": 1961,
+   "label": "1961",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_photo.jpg",
+   "year": 1961,
+   "label": "1961 photo",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_pic.jpg",
+   "year": 1961,
+   "label": "1961 pic",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_specs1.jpg",
+   "year": 1961,
+   "label": "1961 specs1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1961_specs2.jpg",
+   "year": 1961,
+   "label": "1961 specs2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1961_Airstream_20ft_Safari__1961SAFARI1.jpg",
+   "year": 1961,
+   "label": "1961SAFARI1",
+   "folder": "Trailers/1961 Airstream 20ft Safari",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1961_Airstream_20ft_Safari__1961SAFARI2.jpg",
+   "year": 1961,
+   "label": "1961SAFARI2",
+   "folder": "Trailers/1961 Airstream 20ft Safari",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1961_Airstream_20ft_Safari__1961SAFARI3.jpg",
+   "year": 1961,
+   "label": "1961SAFARI3",
+   "folder": "Trailers/1961 Airstream 20ft Safari",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1961_Airstream_20ft_Safari__1961SAFARI4.jpg",
+   "year": 1961,
+   "label": "1961SAFARI4",
+   "folder": "Trailers/1961 Airstream 20ft Safari",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1961_Airstream_20ft_Safari__1961SAFARI5.jpg",
+   "year": 1961,
+   "label": "1961SAFARI5",
+   "folder": "Trailers/1961 Airstream 20ft Safari",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1961_24ft_Airstream__24_3.jpg",
+   "year": 1961,
+   "label": "24 3",
+   "folder": "Trailers/1961 24ft Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1961_24ft_Airstream__42_3.jpg",
+   "year": 1961,
+   "label": "42 3",
+   "folder": "Trailers/1961 24ft Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1961_24ft_Airstream__46_3.jpg",
+   "year": 1961,
+   "label": "46 3",
+   "folder": "Trailers/1961 24ft Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1961_24ft_Airstream__54_3.jpg",
+   "year": 1961,
+   "label": "54 3",
+   "folder": "Trailers/1961 24ft Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1961_24ft_Airstream__75_3.jpg",
+   "year": 1961,
+   "label": "75 3",
+   "folder": "Trailers/1961 24ft Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1961_24ft_Airstream__9a_3.jpg",
+   "year": 1961,
+   "label": "9a 3",
+   "folder": "Trailers/1961 24ft Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1961_24ft_Airstream__a7_3.jpg",
+   "year": 1961,
+   "label": "a7 3",
+   "folder": "Trailers/1961 24ft Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1961_24ft_Airstream__af_3.jpg",
+   "year": 1961,
+   "label": "af 3",
+   "folder": "Trailers/1961 24ft Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_JULY_Test_Report__Bambi_floor_plan.jpg",
+   "year": 1961,
+   "label": "Bambi floor plan",
+   "folder": "Articles/1961 JULY Test Report",
+   "category": "floorplan"
+  },
+  {
+   "file": "assets/ads/Trailers_1961_24ft_Airstream__e3_3.jpg",
+   "year": 1961,
+   "label": "e3 3",
+   "folder": "Trailers/1961 24ft Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1961Airstream22Safari3__FDS.jpg",
+   "year": 1961,
+   "label": "FDS",
+   "folder": "Trailers/1961Airstream22Safari3",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1961_24ft_Airstream__fe_3.jpg",
+   "year": 1961,
+   "label": "fe 3",
+   "folder": "Trailers/1961 24ft Airstream",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1961_JAN_Test_Report__floor_plan.jpg",
+   "year": 1961,
+   "label": "floor plan",
+   "folder": "Articles/1961 JAN Test Report",
+   "category": "floorplan"
+  },
+  {
+   "file": "assets/ads/Trailers_1961Airstream22Safari3__InF.jpg",
+   "year": 1961,
+   "label": "InF",
+   "folder": "Trailers/1961Airstream22Safari3",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1961Airstream22Safari3__INR.jpg",
+   "year": 1961,
+   "label": "INR",
+   "folder": "Trailers/1961Airstream22Safari3",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1961Airstream22Safari3__Kitchen.jpg",
+   "year": 1961,
+   "label": "Kitchen",
+   "folder": "Trailers/1961Airstream22Safari3",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1961Airstream22Safari3__RDS.jpg",
+   "year": 1961,
+   "label": "RDS",
+   "folder": "Trailers/1961Airstream22Safari3",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1961Airstream22Safari3__RODS.jpg",
+   "year": 1961,
+   "label": "RODS",
+   "folder": "Trailers/1961Airstream22Safari3",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_JAN_a.jpg",
+   "year": 1962,
+   "label": "1962 JAN a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_JAN_aa.jpg",
+   "year": 1962,
+   "label": "1962 JAN aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_Jan_b.jpg",
+   "year": 1962,
+   "label": "1962 Jan b",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_Jan_bb.jpg",
+   "year": 1962,
+   "label": "1962 Jan bb",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_MARCH_a.jpg",
+   "year": 1962,
+   "label": "1962 MARCH a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_MARCH_aa.jpg",
+   "year": 1962,
+   "label": "1962 MARCH aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_APRIL.jpg",
+   "year": 1962,
+   "label": "1962 APRIL",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_APRIL_a.jpg",
+   "year": 1962,
+   "label": "1962 APRIL a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_APRIL_aa.jpg",
+   "year": 1962,
+   "label": "1962 APRIL aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1962_APRIL_article.jpg",
+   "year": 1962,
+   "label": "1962 APRIL article",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_April_b.jpg",
+   "year": 1962,
+   "label": "1962 April b",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_April_bb.jpg",
+   "year": 1962,
+   "label": "1962 April bb",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1962_Article_June_.jpg",
+   "year": 1962,
+   "label": "1962 Article (June)",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_June_Cover.jpg",
+   "year": 1962,
+   "label": "1962 June Cover",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_JUNE1a.jpg",
+   "year": 1962,
+   "label": "1962 JUNE1a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_JUNE1aa.jpg",
+   "year": 1962,
+   "label": "1962 JUNE1aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_JUNE1b.jpg",
+   "year": 1962,
+   "label": "1962 JUNE1b",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_JUNE1bb.jpg",
+   "year": 1962,
+   "label": "1962 JUNE1bb",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_AUG_a.jpg",
+   "year": 1962,
+   "label": "1962 AUG a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_AUG_aa.jpg",
+   "year": 1962,
+   "label": "1962 AUG aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_SEPT_a.jpg",
+   "year": 1962,
+   "label": "1962 SEPT a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_SEPT_aa.jpg",
+   "year": 1962,
+   "label": "1962 SEPT aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_OCT_a.jpg",
+   "year": 1962,
+   "label": "1962 OCT a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_OCT_aa.jpg",
+   "year": 1962,
+   "label": "1962 OCT aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_OCT_cover.jpg",
+   "year": 1962,
+   "label": "1962 OCT cover",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_NOV_a.jpg",
+   "year": 1962,
+   "label": "1962 NOV a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_NOV_aa.jpg",
+   "year": 1962,
+   "label": "1962 NOV aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_DEC_1.jpg",
+   "year": 1962,
+   "label": "1962 DEC 1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_DEC_2.jpg",
+   "year": 1962,
+   "label": "1962 DEC 2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1962_APRIL_Table_Chair_Plans__01.jpg",
+   "year": 1962,
+   "label": "01",
+   "folder": "Articles/1962 APRIL (Table & Chair Plans",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1962_MARCH_fallout_shelter__01.jpg",
+   "year": 1962,
+   "label": "01",
+   "folder": "Articles/1962 MARCH fallout shelter",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1962_APRIL_Table_Chair_Plans__02.jpg",
+   "year": 1962,
+   "label": "02",
+   "folder": "Articles/1962 APRIL (Table & Chair Plans",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1962_MARCH_fallout_shelter__02.jpg",
+   "year": 1962,
+   "label": "02",
+   "folder": "Articles/1962 MARCH fallout shelter",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_Airstream.jpg",
+   "year": 1962,
+   "label": "1962 Airstream",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_specs1.jpg",
+   "year": 1962,
+   "label": "1962 specs1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1962_specs2.jpg",
+   "year": 1962,
+   "label": "1962 specs2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1962Airstream24Tradewind__62DS.jpg",
+   "year": 1962,
+   "label": "62DS",
+   "folder": "Trailers/1962Airstream24Tradewind",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1962Airstream24Tradewind__62DSF.jpg",
+   "year": 1962,
+   "label": "62DSF",
+   "folder": "Trailers/1962Airstream24Tradewind",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1962Airstream24Tradewind__62ODSR.jpg",
+   "year": 1962,
+   "label": "62ODSR",
+   "folder": "Trailers/1962Airstream24Tradewind",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1962Airstream24Tradewind__Bath.jpg",
+   "year": 1962,
+   "label": "Bath",
+   "folder": "Trailers/1962Airstream24Tradewind",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1962Airstream24Tradewind__FODS.jpg",
+   "year": 1962,
+   "label": "FODS",
+   "folder": "Trailers/1962Airstream24Tradewind",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1962Airstream24Tradewind__INFr.jpg",
+   "year": 1962,
+   "label": "INFr",
+   "folder": "Trailers/1962Airstream24Tradewind",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1962Airstream24Tradewind__INR2.jpg",
+   "year": 1962,
+   "label": "INR2",
+   "folder": "Trailers/1962Airstream24Tradewind",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1962Airstream24Tradewind__Kitchen.jpg",
+   "year": 1962,
+   "label": "Kitchen",
+   "folder": "Trailers/1962Airstream24Tradewind",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1962_APRIL_Table_Chair_Plans__plan1.jpg",
+   "year": 1962,
+   "label": "plan1",
+   "folder": "Articles/1962 APRIL (Table & Chair Plans",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1962_APRIL_Table_Chair_Plans__plan2.jpg",
+   "year": 1962,
+   "label": "plan2",
+   "folder": "Articles/1962 APRIL (Table & Chair Plans",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_JAN_a.jpg",
+   "year": 1963,
+   "label": "1963 JAN a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_JAN_aa.jpg",
+   "year": 1963,
+   "label": "1963 JAN aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_FEB_a.jpg",
+   "year": 1963,
+   "label": "1963 FEB a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_FEB_aa.jpg",
+   "year": 1963,
+   "label": "1963 FEB aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_MARCH_a.jpg",
+   "year": 1963,
+   "label": "1963 MARCH a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_MARCH_aa.jpg",
+   "year": 1963,
+   "label": "1963 MARCH aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_APRIL_a.jpg",
+   "year": 1963,
+   "label": "1963 APRIL a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_APRIL_aa.jpg",
+   "year": 1963,
+   "label": "1963 APRIL aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_APRIL_ad.jpg",
+   "year": 1963,
+   "label": "1963 APRIL ad",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_MAY_a.jpg",
+   "year": 1963,
+   "label": "1963 MAY a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_MAY_aa.jpg",
+   "year": 1963,
+   "label": "1963 MAY aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_JUNE_a.jpg",
+   "year": 1963,
+   "label": "1963 JUNE a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_JUNE_aa.jpg",
+   "year": 1963,
+   "label": "1963 JUNE aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_JUNE_cover.jpg",
+   "year": 1963,
+   "label": "1963 JUNE cover",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_JULY_a.jpg",
+   "year": 1963,
+   "label": "1963 JULY a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_JULY_aa.jpg",
+   "year": 1963,
+   "label": "1963 JULY aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_AUG_a.jpg",
+   "year": 1963,
+   "label": "1963 AUG a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_AUG_aa.jpg",
+   "year": 1963,
+   "label": "1963 AUG aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_SEPT_a.jpg",
+   "year": 1963,
+   "label": "1963 SEPT a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_SEPT_aa.jpg",
+   "year": 1963,
+   "label": "1963 SEPT aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_OCT_a.jpg",
+   "year": 1963,
+   "label": "1963 OCT a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_OCT_aa.jpg",
+   "year": 1963,
+   "label": "1963 OCT aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_Nov.jpg",
+   "year": 1963,
+   "label": "1963 Nov",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_NOV_a.jpg",
+   "year": 1963,
+   "label": "1963 NOV a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_NOV_aa.jpg",
+   "year": 1963,
+   "label": "1963 NOV aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1963_AUG_Storage_Space__01.jpg",
+   "year": 1963,
+   "label": "01",
+   "folder": "Articles/1963 AUG (Storage Space)",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1963_APRIL_TEST_REPORT__01.jpg",
+   "year": 1963,
+   "label": "01",
+   "folder": "Articles/1963 APRIL TEST REPORT",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1963_AUG_Storage_Space__02.jpg",
+   "year": 1963,
+   "label": "02",
+   "folder": "Articles/1963 AUG (Storage Space)",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1963_APRIL_TEST_REPORT__02.jpg",
+   "year": 1963,
+   "label": "02",
+   "folder": "Articles/1963 APRIL TEST REPORT",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1963_AUG_Storage_Space__03.jpg",
+   "year": 1963,
+   "label": "03",
+   "folder": "Articles/1963 AUG (Storage Space)",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1963_APRIL_TEST_REPORT__03.jpg",
+   "year": 1963,
+   "label": "03",
+   "folder": "Articles/1963 APRIL TEST REPORT",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1963_APRIL_TEST_REPORT__04.jpg",
+   "year": 1963,
+   "label": "04",
+   "folder": "Articles/1963 APRIL TEST REPORT",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1963_APRIL_TEST_REPORT__05.jpg",
+   "year": 1963,
+   "label": "05",
+   "folder": "Articles/1963 APRIL TEST REPORT",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1963_APRIL_TEST_REPORT__06.jpg",
+   "year": 1963,
+   "label": "06",
+   "folder": "Articles/1963 APRIL TEST REPORT",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_26ft_International.jpg",
+   "year": 1963,
+   "label": "1963 26ft International",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_model.jpg",
+   "year": 1963,
+   "label": "1963 model",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1963_pic.jpg",
+   "year": 1963,
+   "label": "1963 pic",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__1963airstream24foot.jpg",
+   "year": 1963,
+   "label": "1963airstream24foot",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1963_Airstream_Overlander__1963Overlander1.jpg",
+   "year": 1963,
+   "label": "1963Overlander1",
+   "folder": "Trailers/1963 Airstream Overlander",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1963_Airstream_Overlander__1963Overlander2.jpg",
+   "year": 1963,
+   "label": "1963Overlander2",
+   "folder": "Trailers/1963 Airstream Overlander",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1963_Airstream_Overlander__1963Overlander3.jpg",
+   "year": 1963,
+   "label": "1963Overlander3",
+   "folder": "Trailers/1963 Airstream Overlander",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1963_Airstream_Overlander__1963Overlander4.jpg",
+   "year": 1963,
+   "label": "1963Overlander4",
+   "folder": "Trailers/1963 Airstream Overlander",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1963_Airstream_Safari__1963SafariAirstream1.jpg",
+   "year": 1963,
+   "label": "1963SafariAirstream1",
+   "folder": "Trailers/1963 Airstream Safari",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1963_Airstream_Safari__1963SafariAirstream2.jpg",
+   "year": 1963,
+   "label": "1963SafariAirstream2",
+   "folder": "Trailers/1963 Airstream Safari",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1963_Airstream_Safari__1963SafariAirstream3.jpg",
+   "year": 1963,
+   "label": "1963SafariAirstream3",
+   "folder": "Trailers/1963 Airstream Safari",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1963_Airstream_Safari__1963SafariAirstream4.jpg",
+   "year": 1963,
+   "label": "1963SafariAirstream4",
+   "folder": "Trailers/1963 Airstream Safari",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1963_Airstream_Safari__1963SafariAirstream5.jpg",
+   "year": 1963,
+   "label": "1963SafariAirstream5",
+   "folder": "Trailers/1963 Airstream Safari",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1963_APRIL_TEST_REPORT__floor_plan.jpg",
+   "year": 1963,
+   "label": "floor plan",
+   "folder": "Articles/1963 APRIL TEST REPORT",
+   "category": "floorplan"
+  },
+  {
+   "file": "assets/ads/Articles_1963_AUG_Storage_Space__plan.jpg",
+   "year": 1963,
+   "label": "plan",
+   "folder": "Articles/1963 AUG (Storage Space)",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1964_JAN_a.jpg",
+   "year": 1964,
+   "label": "1964 JAN a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1964_JAN_aa.jpg",
+   "year": 1964,
+   "label": "1964 JAN aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1964_JAN_pic.jpg",
+   "year": 1964,
+   "label": "1964 JAN pic",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1964_MAY_a.jpg",
+   "year": 1964,
+   "label": "1964 MAY a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1964_MAY_aa.jpg",
+   "year": 1964,
+   "label": "1964 MAY aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1964_JUNE_a.jpg",
+   "year": 1964,
+   "label": "1964 JUNE a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1964_JUNE_aa.jpg",
+   "year": 1964,
+   "label": "1964 JUNE aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1964_JUNE_article.jpg",
+   "year": 1964,
+   "label": "1964 JUNE article",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1964_JUNE_cover.jpg",
+   "year": 1964,
+   "label": "1964 JUNE cover",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1964_JULY_a.jpg",
+   "year": 1964,
+   "label": "1964 JULY a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1964_JULY_aa.jpg",
+   "year": 1964,
+   "label": "1964 JULY aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1964_OCT.jpg",
+   "year": 1964,
+   "label": "1964 OCT",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1964_OCT_a.jpg",
+   "year": 1964,
+   "label": "1964 OCT a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1964_OCT_aa.jpg",
+   "year": 1964,
+   "label": "1964 OCT aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1964_OCT_b.jpg",
+   "year": 1964,
+   "label": "1964 OCT b",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1964_OCT_bb.jpg",
+   "year": 1964,
+   "label": "1964 OCT bb",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1964_NOV_a.jpg",
+   "year": 1964,
+   "label": "1964 NOV a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1964_NOV_aa.jpg",
+   "year": 1964,
+   "label": "1964 NOV aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1964_Brochure__01.jpg",
+   "year": 1964,
+   "label": "01",
+   "folder": "1964 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1964_Brochure__02.jpg",
+   "year": 1964,
+   "label": "02",
+   "folder": "1964 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1964_26ft_International.jpg",
+   "year": 1964,
+   "label": "1964 26ft International",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1964_specs.jpg",
+   "year": 1964,
+   "label": "1964 specs",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1964Airstream30Sovereign__Bath.jpg",
+   "year": 1964,
+   "label": "Bath",
+   "folder": "Trailers/1964Airstream30Sovereign",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/c4oo1964.jpg",
+   "year": 1964,
+   "label": "c4oo1964",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1964Airstream30Sovereign__DS.jpg",
+   "year": 1964,
+   "label": "DS",
+   "folder": "Trailers/1964Airstream30Sovereign",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1964Airstream30Sovereign__DSRlarge.jpg",
+   "year": 1964,
+   "label": "DSRlarge",
+   "folder": "Trailers/1964Airstream30Sovereign",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1964Airstream30Sovereign__FDS.jpg",
+   "year": 1964,
+   "label": "FDS",
+   "folder": "Trailers/1964Airstream30Sovereign",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1964Airstream30Sovereign__Front.jpg",
+   "year": 1964,
+   "label": "Front",
+   "folder": "Trailers/1964Airstream30Sovereign",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1964Airstream30Sovereign__LR-Kit.jpg",
+   "year": 1964,
+   "label": "LR-Kit",
+   "folder": "Trailers/1964Airstream30Sovereign",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1964Airstream30Sovereign__ODS.jpg",
+   "year": 1964,
+   "label": "ODS",
+   "folder": "Trailers/1964Airstream30Sovereign",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1964Airstream30Sovereign__Rear.jpg",
+   "year": 1964,
+   "label": "Rear",
+   "folder": "Trailers/1964Airstream30Sovereign",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1964Airstream30Sovereign__RearHall.jpg",
+   "year": 1964,
+   "label": "RearHall",
+   "folder": "Trailers/1964Airstream30Sovereign",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1964Airstream30Sovereign__RrHall.jpg",
+   "year": 1964,
+   "label": "RrHall",
+   "folder": "Trailers/1964Airstream30Sovereign",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1965_JAN_a.jpg",
+   "year": 1965,
+   "label": "1965 JAN a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1965_JAN_aa.jpg",
+   "year": 1965,
+   "label": "1965 JAN aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1965_FEB_a.jpg",
+   "year": 1965,
+   "label": "1965 FEB a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1965_FEB_aa.jpg",
+   "year": 1965,
+   "label": "1965 FEB aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1965_MAY_a.jpg",
+   "year": 1965,
+   "label": "1965 MAY a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1965_MAY_aa.jpg",
+   "year": 1965,
+   "label": "1965 MAY aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1965_JUNE_a.jpg",
+   "year": 1965,
+   "label": "1965 JUNE a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1965_JUNE_aa.jpg",
+   "year": 1965,
+   "label": "1965 JUNE aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1965_JULY__1965_JUNE_cover.jpg",
+   "year": 1965,
+   "label": "1965 JUNE cover",
+   "folder": "Articles/1965 JULY",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1965_AUG_article.jpg",
+   "year": 1965,
+   "label": "1965 AUG article",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1965_SEPT_a.jpg",
+   "year": 1965,
+   "label": "1965 SEPT a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1965_SEPT_aa.jpg",
+   "year": 1965,
+   "label": "1965 SEPT aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1965_OCT.jpg",
+   "year": 1965,
+   "label": "1965 OCT",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1965_JULY__01.jpg",
+   "year": 1965,
+   "label": "01",
+   "folder": "Articles/1965 JULY",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1965_JAN__01.jpg",
+   "year": 1965,
+   "label": "01",
+   "folder": "Articles/1965 JAN",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1965_JULY__02.jpg",
+   "year": 1965,
+   "label": "02",
+   "folder": "Articles/1965 JULY",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1965_JAN__02.jpg",
+   "year": 1965,
+   "label": "02",
+   "folder": "Articles/1965 JAN",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1965_JULY__03.jpg",
+   "year": 1965,
+   "label": "03",
+   "folder": "Articles/1965 JULY",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1965_JAN__03.jpg",
+   "year": 1965,
+   "label": "03",
+   "folder": "Articles/1965 JAN",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1965_JULY__04.jpg",
+   "year": 1965,
+   "label": "04",
+   "folder": "Articles/1965 JULY",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1965_JAN__04.jpg",
+   "year": 1965,
+   "label": "04",
+   "folder": "Articles/1965 JAN",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles_1965_JAN__05.jpg",
+   "year": 1965,
+   "label": "05",
+   "folder": "Articles/1965 JAN",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1966_MAY.jpg",
+   "year": 1966,
+   "label": "1966 MAY",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1966_MAY_a.jpg",
+   "year": 1966,
+   "label": "1966 MAY a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1966_MAY_aa.jpg",
+   "year": 1966,
+   "label": "1966 MAY aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1966_JUNE_a.jpg",
+   "year": 1966,
+   "label": "1966 JUNE a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1966_JUNE_aa.jpg",
+   "year": 1966,
+   "label": "1966 JUNE aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1966_JULY_a.jpg",
+   "year": 1966,
+   "label": "1966 JULY a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1966_JULY_aa.jpg",
+   "year": 1966,
+   "label": "1966 JULY aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1966_AUG_a.jpg",
+   "year": 1966,
+   "label": "1966 AUG a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1966_AUG_aa.jpg",
+   "year": 1966,
+   "label": "1966 AUG aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1966_AUGUST.jpg",
+   "year": 1966,
+   "label": "1966 AUGUST",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1966_AUGUST_article.jpg",
+   "year": 1966,
+   "label": "1966 AUGUST article",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1966_SEPT.jpg",
+   "year": 1966,
+   "label": "1966 SEPT",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1966_OCT_a.jpg",
+   "year": 1966,
+   "label": "1966 OCT a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1966_OCT_aa.jpg",
+   "year": 1966,
+   "label": "1966 OCT aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1966_NOV_a.jpg",
+   "year": 1966,
+   "label": "1966 NOV a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1966_NOV_aa.jpg",
+   "year": 1966,
+   "label": "1966 NOV aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1966_Dec_a.jpg",
+   "year": 1966,
+   "label": "1966 Dec a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1966_Dec_aa.jpg",
+   "year": 1966,
+   "label": "1966 Dec aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1966_26ft_International.jpg",
+   "year": 1966,
+   "label": "1966 26ft International",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1966_30ft_International.jpg",
+   "year": 1966,
+   "label": "1966 30ft International",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1967_JAN_a.jpg",
+   "year": 1967,
+   "label": "1967 JAN a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1967_JAN_aa.jpg",
+   "year": 1967,
+   "label": "1967 JAN aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1967Airstream24Ambassador__SideCouch.jpg",
+   "year": 1967,
+   "label": "SideCouch",
+   "folder": "Trailers/1967Airstream24Ambassador",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1967_17ft_Caravel.jpg",
+   "year": 1967,
+   "label": "1967 17ft Caravel",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1967_30ft.jpg",
+   "year": 1967,
+   "label": "1967 30ft",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1967Airstream24Ambassador__Bath.jpg",
+   "year": 1967,
+   "label": "Bath",
+   "folder": "Trailers/1967Airstream24Ambassador",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1967Airstream24Ambassador__DSF.jpg",
+   "year": 1967,
+   "label": "DSF",
+   "folder": "Trailers/1967Airstream24Ambassador",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1967Airstream24Ambassador__DSHall.jpg",
+   "year": 1967,
+   "label": "DSHall",
+   "folder": "Trailers/1967Airstream24Ambassador",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1967Airstream24Ambassador__FrtHall.jpg",
+   "year": 1967,
+   "label": "FrtHall",
+   "folder": "Trailers/1967Airstream24Ambassador",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1967Airstream24Ambassador__KitLR.jpg",
+   "year": 1967,
+   "label": "KitLR",
+   "folder": "Trailers/1967Airstream24Ambassador",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1967Airstream24Ambassador__ODSF.jpg",
+   "year": 1967,
+   "label": "ODSF",
+   "folder": "Trailers/1967Airstream24Ambassador",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1967Airstream24Ambassador__RearHall.jpg",
+   "year": 1967,
+   "label": "RearHall",
+   "folder": "Trailers/1967Airstream24Ambassador",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1967Airstream24Ambassador__Tub.jpg",
+   "year": 1967,
+   "label": "Tub",
+   "folder": "Trailers/1967Airstream24Ambassador",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1968_JULY.jpg",
+   "year": 1968,
+   "label": "1968 JULY",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1968_JULY_2.jpg",
+   "year": 1968,
+   "label": "1968 JULY 2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1968_July_a.jpg",
+   "year": 1968,
+   "label": "1968 July a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1968_July_aa.jpg",
+   "year": 1968,
+   "label": "1968 July aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1968_AUG_a.jpg",
+   "year": 1968,
+   "label": "1968 AUG a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1968_AUG_aa.jpg",
+   "year": 1968,
+   "label": "1968 AUG aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1968_OCT_article.jpg",
+   "year": 1968,
+   "label": "1968 OCT article",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1968_NOV_article.jpg",
+   "year": 1968,
+   "label": "1968 NOV article",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1968_model.jpg",
+   "year": 1968,
+   "label": "1968 model",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1968_SPECS.JPG",
+   "year": 1968,
+   "label": "1968 SPECS",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1969_MARCH_a.jpg",
+   "year": 1969,
+   "label": "1969 MARCH a",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1969_MARCH_aa.jpg",
+   "year": 1969,
+   "label": "1969 MARCH aa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1969_NOVa.jpg",
+   "year": 1969,
+   "label": "1969 NOVa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1969_NOVaa.jpg",
+   "year": 1969,
+   "label": "1969 NOVaa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1969_NOVb.jpg",
+   "year": 1969,
+   "label": "1969 NOVb",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1969_NOVbb.jpg",
+   "year": 1969,
+   "label": "1969 NOVbb",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1969_Airstream_Sovereign_31ft__1f_1_s.jpg",
+   "year": 1969,
+   "label": "1f 1 s",
+   "folder": "Trailers/1969 Airstream Sovereign 31ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1969_Airstream_Sovereign_31ft__2e_1_s.jpg",
+   "year": 1969,
+   "label": "2e 1 s",
+   "folder": "Trailers/1969 Airstream Sovereign 31ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1969_Airstream_Sovereign_31ft__3b_1_s.jpg",
+   "year": 1969,
+   "label": "3b 1 s",
+   "folder": "Trailers/1969 Airstream Sovereign 31ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1969_Airstream_Sovereign_31ft__48_1_s.jpg",
+   "year": 1969,
+   "label": "48 1 s",
+   "folder": "Trailers/1969 Airstream Sovereign 31ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1969_Airstream_Sovereign_31ft__5b_1_s.jpg",
+   "year": 1969,
+   "label": "5b 1 s",
+   "folder": "Trailers/1969 Airstream Sovereign 31ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1969_Airstream_Sovereign_31ft__6c_1_s.jpg",
+   "year": 1969,
+   "label": "6c 1 s",
+   "folder": "Trailers/1969 Airstream Sovereign 31ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1969_Airstream_Sovereign_31ft__a6_1_s.jpg",
+   "year": 1969,
+   "label": "a6 1 s",
+   "folder": "Trailers/1969 Airstream Sovereign 31ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1969_Airstream_Sovereign_31ft__b7_1_s.jpg",
+   "year": 1969,
+   "label": "b7 1 s",
+   "folder": "Trailers/1969 Airstream Sovereign 31ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1969_Airstream_Sovereign_31ft__d7_1_s.jpg",
+   "year": 1969,
+   "label": "d7 1 s",
+   "folder": "Trailers/1969 Airstream Sovereign 31ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1969_Airstream_Sovereign_31ft__db_1_s.jpg",
+   "year": 1969,
+   "label": "db 1 s",
+   "folder": "Trailers/1969 Airstream Sovereign 31ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1969_Airstream_Sovereign_31ft__e6_1_s.jpg",
+   "year": 1969,
+   "label": "e6 1 s",
+   "folder": "Trailers/1969 Airstream Sovereign 31ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1969_Airstream_Sovereign_31ft__f6_1_sb.jpg",
+   "year": 1969,
+   "label": "f6 1 sb",
+   "folder": "Trailers/1969 Airstream Sovereign 31ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1970_JULY_article.jpg",
+   "year": 1970,
+   "label": "1970 JULY article",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1970_JULY_cover.jpg",
+   "year": 1970,
+   "label": "1970 JULY cover",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1970_JULY1.jpg",
+   "year": 1970,
+   "label": "1970 JULY1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1970_JULY2.jpg",
+   "year": 1970,
+   "label": "1970 JULY2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1970_DEC_article.jpg",
+   "year": 1970,
+   "label": "1970 DEC article",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1970a.jpg",
+   "year": 1970,
+   "label": "1970a",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Articles__1970b.jpg",
+   "year": 1970,
+   "label": "1970b",
+   "folder": "Articles",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1970_Airstream_27ft__3f_3.jpg",
+   "year": 1970,
+   "label": "3f 3",
+   "folder": "Trailers/1970 Airstream 27ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1970_Airstream_27ft__51_3.jpg",
+   "year": 1970,
+   "label": "51 3",
+   "folder": "Trailers/1970 Airstream 27ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1970_Airstream_27ft__9b_3.jpg",
+   "year": 1970,
+   "label": "9b 3",
+   "folder": "Trailers/1970 Airstream 27ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1970_Airstream_27ft__a3_3.jpg",
+   "year": 1970,
+   "label": "a3 3",
+   "folder": "Trailers/1970 Airstream 27ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1970_Airstream_27ft__b6_3.jpg",
+   "year": 1970,
+   "label": "b6 3",
+   "folder": "Trailers/1970 Airstream 27ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers_1970_Airstream_27ft__e5_3.jpg",
+   "year": 1970,
+   "label": "e5 3",
+   "folder": "Trailers/1970 Airstream 27ft",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__1971.jpg",
+   "year": 1971,
+   "label": "1971",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1972_MAY.jpg",
+   "year": 1972,
+   "label": "1972 MAY",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1972_MAYa.jpg",
+   "year": 1972,
+   "label": "1972 MAYa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1972_MAYaa.jpg",
+   "year": 1972,
+   "label": "1972 MAYaa",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Argosy__1973_Aug_1.jpg",
+   "year": 1973,
+   "label": "1973 (Aug)1",
+   "folder": "Argosy",
+   "category": "argosy"
+  },
+  {
+   "file": "assets/ads/Argosy__1973_Aug_2.jpg",
+   "year": 1973,
+   "label": "1973 (Aug)2",
+   "folder": "Argosy",
+   "category": "argosy"
+  },
+  {
+   "file": "assets/ads/Argosy__1973_Argosy1.jpg",
+   "year": 1973,
+   "label": "1973 Argosy1",
+   "folder": "Argosy",
+   "category": "argosy"
+  },
+  {
+   "file": "assets/ads/Argosy__1973_Argosy2.jpg",
+   "year": 1973,
+   "label": "1973 Argosy2",
+   "folder": "Argosy",
+   "category": "argosy"
+  },
+  {
+   "file": "assets/ads/Trailers_1977_Argosy__1977Argosy1.jpg",
+   "year": 1977,
+   "label": "1977Argosy1",
+   "folder": "Trailers/1977 Argosy",
+   "category": "argosy"
+  },
+  {
+   "file": "assets/ads/Trailers_1977_Argosy__1977Argosy2.jpg",
+   "year": 1977,
+   "label": "1977Argosy2",
+   "folder": "Trailers/1977 Argosy",
+   "category": "argosy"
+  },
+  {
+   "file": "assets/ads/Trailers_1977_Argosy__1977Argosy3.jpg",
+   "year": 1977,
+   "label": "1977Argosy3",
+   "folder": "Trailers/1977 Argosy",
+   "category": "argosy"
+  },
+  {
+   "file": "assets/ads/1979_Motorcoach_Brochure__01.jpg",
+   "year": 1979,
+   "label": "01",
+   "folder": "1979 Motorcoach Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1979_Motorcoach_Brochure__02.jpg",
+   "year": 1979,
+   "label": "02",
+   "folder": "1979 Motorcoach Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1979_Motorcoach_Brochure__03.jpg",
+   "year": 1979,
+   "label": "03",
+   "folder": "1979 Motorcoach Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1979_Motorcoach_Brochure__04.jpg",
+   "year": 1979,
+   "label": "04",
+   "folder": "1979 Motorcoach Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1979_Motorcoach_Brochure__05.jpg",
+   "year": 1979,
+   "label": "05",
+   "folder": "1979 Motorcoach Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1979_Motorcoach_Brochure__06.jpg",
+   "year": 1979,
+   "label": "06",
+   "folder": "1979 Motorcoach Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1980_Brochure__1980_NOV.jpg",
+   "year": 1980,
+   "label": "1980 NOV",
+   "folder": "1980 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1980_Brochure__01.jpg",
+   "year": 1980,
+   "label": "01",
+   "folder": "1980 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1980_Aircoach__01.jpg",
+   "year": 1980,
+   "label": "01",
+   "folder": "1980 Aircoach",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1980_Brochure__02.jpg",
+   "year": 1980,
+   "label": "02",
+   "folder": "1980 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1980_Aircoach__02.jpg",
+   "year": 1980,
+   "label": "02",
+   "folder": "1980 Aircoach",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1980_Brochure__03.jpg",
+   "year": 1980,
+   "label": "03",
+   "folder": "1980 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1980_Aircoach__03.jpg",
+   "year": 1980,
+   "label": "03",
+   "folder": "1980 Aircoach",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1980_Brochure__04.jpg",
+   "year": 1980,
+   "label": "04",
+   "folder": "1980 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1980_Aircoach__04.jpg",
+   "year": 1980,
+   "label": "04",
+   "folder": "1980 Aircoach",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1980_Brochure__05.jpg",
+   "year": 1980,
+   "label": "05",
+   "folder": "1980 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1980_Brochure__06.jpg",
+   "year": 1980,
+   "label": "06",
+   "folder": "1980 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1980_Brochure__1980a.jpg",
+   "year": 1980,
+   "label": "1980a",
+   "folder": "1980 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1980_Brochure__1980b.jpg",
+   "year": 1980,
+   "label": "1980b",
+   "folder": "1980 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1981_Floor_Plans__01.jpg",
+   "year": 1981,
+   "label": "01",
+   "folder": "1981 Floor Plans",
+   "category": "floorplan"
+  },
+  {
+   "file": "assets/ads/1981_Funeral_Coach__01.jpg",
+   "year": 1981,
+   "label": "01",
+   "folder": "1981 Funeral Coach",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1981_Brochure__01.jpg",
+   "year": 1981,
+   "label": "01",
+   "folder": "1981 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1981_Floor_Plans__01a.jpg",
+   "year": 1981,
+   "label": "01a",
+   "folder": "1981 Floor Plans",
+   "category": "floorplan"
+  },
+  {
+   "file": "assets/ads/1981_Floor_Plans__02.jpg",
+   "year": 1981,
+   "label": "02",
+   "folder": "1981 Floor Plans",
+   "category": "floorplan"
+  },
+  {
+   "file": "assets/ads/1981_Funeral_Coach__02.jpg",
+   "year": 1981,
+   "label": "02",
+   "folder": "1981 Funeral Coach",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1981_Brochure__02.jpg",
+   "year": 1981,
+   "label": "02",
+   "folder": "1981 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1981_Floor_Plans__02a.jpg",
+   "year": 1981,
+   "label": "02a",
+   "folder": "1981 Floor Plans",
+   "category": "floorplan"
+  },
+  {
+   "file": "assets/ads/1981_Funeral_Coach__02a.jpg",
+   "year": 1981,
+   "label": "02a",
+   "folder": "1981 Funeral Coach",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1981_Floor_Plans__03.jpg",
+   "year": 1981,
+   "label": "03",
+   "folder": "1981 Floor Plans",
+   "category": "floorplan"
+  },
+  {
+   "file": "assets/ads/1981_Funeral_Coach__03.jpg",
+   "year": 1981,
+   "label": "03",
+   "folder": "1981 Funeral Coach",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1981_Brochure__03.jpg",
+   "year": 1981,
+   "label": "03",
+   "folder": "1981 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1981_Floor_Plans__03a.jpg",
+   "year": 1981,
+   "label": "03a",
+   "folder": "1981 Floor Plans",
+   "category": "floorplan"
+  },
+  {
+   "file": "assets/ads/1981_Funeral_Coach__04.jpg",
+   "year": 1981,
+   "label": "04",
+   "folder": "1981 Funeral Coach",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/1981_Brochure__04.jpg",
+   "year": 1981,
+   "label": "04",
+   "folder": "1981 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1981_Brochure__1981_Caravelle1.jpg",
+   "year": 1981,
+   "label": "1981 Caravelle1",
+   "folder": "1981 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1981_Brochure__1981_Caravelle2.jpg",
+   "year": 1981,
+   "label": "1981 Caravelle2",
+   "folder": "1981 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1981_Floor_Plans__1981_Motorhome1.jpg",
+   "year": 1981,
+   "label": "1981 Motorhome1",
+   "folder": "1981 Floor Plans",
+   "category": "floorplan"
+  },
+  {
+   "file": "assets/ads/1981_Floor_Plans__1981_Motorhome2.jpg",
+   "year": 1981,
+   "label": "1981 Motorhome2",
+   "folder": "1981 Floor Plans",
+   "category": "floorplan"
+  },
+  {
+   "file": "assets/ads/1981_Brochure__1981a.jpg",
+   "year": 1981,
+   "label": "1981a",
+   "folder": "1981 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1981_Brochure__1981b.jpg",
+   "year": 1981,
+   "label": "1981b",
+   "folder": "1981 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1984_Brochure__1984a.jpg",
+   "year": 1984,
+   "label": "1984a",
+   "folder": "1984 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1984_Brochure__1984b.jpg",
+   "year": 1984,
+   "label": "1984b",
+   "folder": "1984 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1991_Brochure__01.jpg",
+   "year": 1991,
+   "label": "01",
+   "folder": "1991 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1991_Brochure__02.jpg",
+   "year": 1991,
+   "label": "02",
+   "folder": "1991 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1991_Brochure__02a.jpg",
+   "year": 1991,
+   "label": "02a",
+   "folder": "1991 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1991_Brochure__03.jpg",
+   "year": 1991,
+   "label": "03",
+   "folder": "1991 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1991_Brochure__04.jpg",
+   "year": 1991,
+   "label": "04",
+   "folder": "1991 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1991_Brochure__a.jpg",
+   "year": 1991,
+   "label": "a",
+   "folder": "1991 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1991_Brochure__b.jpg",
+   "year": 1991,
+   "label": "b",
+   "folder": "1991 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1991_Brochure__c.jpg",
+   "year": 1991,
+   "label": "c",
+   "folder": "1991 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/1991_Brochure__d.jpg",
+   "year": 1991,
+   "label": "d",
+   "folder": "1991 Brochure",
+   "category": "brochure"
+  },
+  {
+   "file": "assets/ads/Nov06227.jpg",
+   "year": null,
+   "label": "Nov06227",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Nov06230.jpg",
+   "year": null,
+   "label": "Nov06230",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Nov06233.jpg",
+   "year": null,
+   "label": "Nov06233",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Nov06277.jpg",
+   "year": null,
+   "label": "Nov06277",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Nov06279.jpg",
+   "year": null,
+   "label": "Nov06279",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Nov06280.jpg",
+   "year": null,
+   "label": "Nov06280",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Nov06281.jpg",
+   "year": null,
+   "label": "Nov06281",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/067.jpg",
+   "year": null,
+   "label": "067",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Toys_Misc__1.jpg",
+   "year": null,
+   "label": "1",
+   "folder": "Toys & Misc",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Toys_Misc__113.jpg",
+   "year": null,
+   "label": "113",
+   "folder": "Toys & Misc",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Toys_Misc__12.jpg",
+   "year": null,
+   "label": "12",
+   "folder": "Toys & Misc",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Toys_Misc__133.jpg",
+   "year": null,
+   "label": "133",
+   "folder": "Toys & Misc",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Toys_Misc__13313.jpg",
+   "year": null,
+   "label": "13313",
+   "folder": "Toys & Misc",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Toys_Misc__233.jpg",
+   "year": null,
+   "label": "233",
+   "folder": "Toys & Misc",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Toys_Misc__233d.jpg",
+   "year": null,
+   "label": "233d",
+   "folder": "Toys & Misc",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Toys_Misc__4d_3.jpg",
+   "year": null,
+   "label": "4d 3",
+   "folder": "Toys & Misc",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__53clipper1S.JPG",
+   "year": null,
+   "label": "53clipper1S",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/54airstream.jpg",
+   "year": null,
+   "label": "54airstream",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/54airstream2.jpg",
+   "year": null,
+   "label": "54airstream2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__56_20airstream1.jpg",
+   "year": null,
+   "label": "56%20airstream1",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__5dc8fe93.jpg",
+   "year": null,
+   "label": "5dc8fe93",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Toys_Misc__67_3.jpg",
+   "year": null,
+   "label": "67 3",
+   "folder": "Toys & Misc",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__67safari.jpg",
+   "year": null,
+   "label": "67safari",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Toys_Misc__6e_1_b.jpg",
+   "year": null,
+   "label": "6e 1 b",
+   "folder": "Toys & Misc",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Toys_Misc__ad4306airstream11.jpg",
+   "year": null,
+   "label": "ad4306airstream11",
+   "folder": "Toys & Misc",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Africa1.jpg",
+   "year": null,
+   "label": "Africa1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Africa2.jpg",
+   "year": null,
+   "label": "Africa2",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__AirstreamCards.jpg",
+   "year": null,
+   "label": "AirstreamCards",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__As_Exterior01.jpg",
+   "year": null,
+   "label": "As Exterior01",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Toys_Misc__As_Exterior02.jpg",
+   "year": null,
+   "label": "As Exterior02",
+   "folder": "Toys & Misc",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Toys_Misc__As_Interior01.jpg",
+   "year": null,
+   "label": "As Interior01",
+   "folder": "Toys & Misc",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__Bath.jpg",
+   "year": null,
+   "label": "Bath",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__Bed.jpg",
+   "year": null,
+   "label": "Bed",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Brick_Airstream.jpg",
+   "year": null,
+   "label": "Brick Airstream",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/c4o.jpg",
+   "year": null,
+   "label": "c4o",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/c4ooo.jpg",
+   "year": null,
+   "label": "c4ooo",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Cable_Car.jpg",
+   "year": null,
+   "label": "Cable Car",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__Cape_20Fair_206-7-03.jpg",
+   "year": null,
+   "label": "Cape%20Fair%206-7-03",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__Couch.jpg",
+   "year": null,
+   "label": "Couch",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__ExtDS2.jpg",
+   "year": null,
+   "label": "ExtDS2",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__ExtDSF.jpg",
+   "year": null,
+   "label": "ExtDSF",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__ExtDSR.jpg",
+   "year": null,
+   "label": "ExtDSR",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__ExtFODS.jpg",
+   "year": null,
+   "label": "ExtFODS",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__ExtRDS.jpg",
+   "year": null,
+   "label": "ExtRDS",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__ExtRODS.jpg",
+   "year": null,
+   "label": "ExtRODS",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__ExtRODSaa.jpg",
+   "year": null,
+   "label": "ExtRODSaa",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/i-1g.jpg",
+   "year": null,
+   "label": "i-1g",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__i-6.JPG",
+   "year": null,
+   "label": "i-6",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/iiair.jpg",
+   "year": null,
+   "label": "iiair",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__img000001.jpg",
+   "year": null,
+   "label": "img000001",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__IntDS.jpg",
+   "year": null,
+   "label": "IntDS",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__Kitqw.jpg",
+   "year": null,
+   "label": "Kitqw",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__leonardtrailer.jpg",
+   "year": null,
+   "label": "leonardtrailer",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/m7.jpg",
+   "year": null,
+   "label": "m7",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Mexico1.jpg",
+   "year": null,
+   "label": "Mexico1",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Nicaragua.jpg",
+   "year": null,
+   "label": "Nicaragua",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Scannen.jpg",
+   "year": null,
+   "label": "Scannen",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/trailer7.jpg",
+   "year": null,
+   "label": "trailer7",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/trailercar.jpg",
+   "year": null,
+   "label": "trailercar",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/trailertravel.jpg",
+   "year": null,
+   "label": "trailertravel",
+   "folder": "",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Trailers__Tub.jpg",
+   "year": null,
+   "label": "Tub",
+   "folder": "Trailers",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Toys_Misc__we.jpg",
+   "year": null,
+   "label": "we",
+   "folder": "Toys & Misc",
+   "category": "ad"
+  },
+  {
+   "file": "assets/ads/Toys_Misc__wer.jpg",
+   "year": null,
+   "label": "wer",
+   "folder": "Toys & Misc",
+   "category": "ad"
+  }
+ ]
+}

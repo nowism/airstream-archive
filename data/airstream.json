@@ -1,0 +1,680 @@
+{
+  "meta": {
+    "title": "The Airstream Archive",
+    "tagline": "Every era of America's silver icon — models, floor plans, lengths, photos & advertising since 1931",
+    "imageSource": "Photographs are embedded from Wikimedia Commons via stable Special:FilePath URLs. Each is freely licensed (Creative Commons or public domain); credit and a link back to the source file appear on every image. Vintage advertisement slots link to public archives where verified, copyright-clear scans can be dropped in.",
+    "note": "Specifications reflect the best publicly documented figures for each model line. Airstream frequently offered several lengths and floor plans within a single model name and year, and trim/options changed across a model's run. Lengths and floor plans are representative of the model line unless a specific year is noted.",
+    "milestones": {
+      "1931": "Wally Byam builds and sells his first trailers — the Torpedo Car Cruiser — from a Los Angeles backyard, and publishes build-it-yourself plans.",
+      "1936": "The riveted-aluminum Clipper debuts, establishing the aircraft-inspired monocoque silhouette every Airstream has followed since.",
+      "1948": "Airstream resumes and expands postwar production, riding the great American road-trip boom.",
+      "1952": "Airstream opens its Jackson Center, Ohio factory — still the company's home today.",
+      "1954": "Airstream and the Bowen Water Heater Co. introduce the first hot-water system offered in a travel trailer.",
+      "1958": "Airstream introduces the first fully self-contained travel trailer, freeing owners from campground hookups.",
+      "1961": "The 16-foot Bambi — the smallest and most beloved of the classic Airstreams — is introduced.",
+      "1969": "Airstream builds the Mobile Quarantine Facility that isolates the Apollo 11 astronauts after their return from the Moon.",
+      "1972": "The value-priced, painted Argosy line launches at a new plant in Versailles, Ohio.",
+      "1974": "Airstream builds its first motorhome, applying its aluminum craft to a self-propelled land yacht.",
+      "1979": "The Argosy travel-trailer line is discontinued.",
+      "1990": "The Classic name debuts atop the range as Airstream's flagship trailer.",
+      "2004": "The Mercedes-Benz Sprinter-based Interstate touring coach launches Airstream's modern Class B program.",
+      "2016": "The rugged, go-anywhere Basecamp arrives, aimed at a new outdoors-first generation.",
+      "2020": "The Bambi name returns on Airstream's modern compact line, alongside the revived Caravel."
+    },
+    "funFacts": {
+      "torpedo-car-cruiser": "Byam first sold the Torpedo as a set of mail-order plans in his own magazine before he ever built one for sale.",
+      "silver-cloud-airlite": "These transitional models bridged the gap between Byam's wooden Torpedo and the all-aluminum Clipper that made Airstream famous.",
+      "clipper": "The Clipper's aircraft-style aluminum body was engineered with Hawley Bowlus — the man who built the fuselage of Lindbergh's Spirit of St. Louis.",
+      "wanderer-liner-postwar": "Byam spent WWII building aircraft parts, then brought those aluminum techniques straight back to his postwar trailers.",
+      "flying-cloud-classic-era": "The Flying Cloud borrows its name from a famous 1851 clipper ship — and proved so beloved that Airstream revived it in 2009.",
+      "cruisette-safari-early": "The compact Cruisette previewed the tow-anywhere idea that the legendary Bambi would perfect a decade later.",
+      "safari": "The Safari's name honored Wally Byam's international caravans, which took Airstreams from Central America to the length of Africa.",
+      "overlander": "The 26-foot Overlander was Byam's own favorite size for going the distance on his round-the-world caravans.",
+      "tradewind": "The Trade Wind name returned in 2024 on Airstream's first factory solar-and-lithium, go-anywhere off-grid trailer.",
+      "globetrotter-classic": "The Globe Trotter name was reborn in 2018 for a premium, European-styled interior.",
+      "bambi-original": "'Bambi' means 'little one' — and today the original 16-footer is among the most collectible trailers on earth.",
+      "caravel": "The reborn Caravel is famous for bringing polished-aluminum accents inside the cabin, not just outside.",
+      "ambassador": "The 28-foot Ambassador debuted with Airstream's deluxe 'International' appointments.",
+      "sovereign": "Airstream billed the flagship Sovereign as the 'Sovereign of the Road.'",
+      "international-land-yacht": "The romantic 'Land Yacht' nickname of these years still shapes how people picture a classic Airstream.",
+      "argosy": "Argosys were painted — usually beige — so Airstream could use aluminum panels that weren't show-polished, at a friendlier price.",
+      "excella": "The Excella 500 was the best-appointed Airstream money could buy in its day.",
+      "airstream-motorhome-70s": "In 1974 Airstream put its aluminum craft on wheels of its own, building its first motorhome.",
+      "classic-limited": "Today's Classic pairs 1990s flagship heritage with heated floors, panoramic windows and a smart-control system.",
+      "land-yacht-motorhome": "The Land Yacht badge carried Airstream's motorhomes from the late '70s clear into the 2000s.",
+      "bambi-international-ccd": "Designer Christopher C. Deam reinvented the Airstream interior for the 21st century with these models.",
+      "interstate": "The Interstate is built on a Mercedes-Benz Sprinter — it drives like a van but lives like a yacht.",
+      "flying-cloud-modern": "The modern Flying Cloud offers more lengths and floor plans than any other Airstream — it's the brand's best-seller.",
+      "basecamp": "The Basecamp's big rear hatch swallows bikes and gear; there's even a special edition co-designed with REI.",
+      "globetrotter-modern": "The reborn Globetrotter leans into European design, slotting between the everyday Flying Cloud and the flagship Classic.",
+      "caravel-bambi-modern": "The revived Bambi and Caravel share identical floor plans — the Caravel just wears more premium finishes.",
+      "atlas-rangeline": "The Atlas hides a Murphy bed that folds away to open up the whole cabin by day.",
+      "trade-wind-modern": "The 2024 Trade Wind is Airstream's most off-grid-ready trailer, built around a big solar-and-lithium system."
+    },
+    "yearImages": {
+      "safari/1965": [
+        { "file": "Airstream Safari 1965 01.jpg", "caption": "A 1965 Airstream Safari", "credit": "Wikimedia Commons" },
+        { "file": "Airstream Safari 1965 05.jpg", "caption": "1965 Safari — side profile", "credit": "Wikimedia Commons" },
+        { "file": "Airstream Safari 1965 09.jpg", "caption": "1965 Safari — three-quarter view", "credit": "Wikimedia Commons" },
+        { "file": "Airstream Safari 1965 14.jpg", "caption": "1965 Safari — interior detail", "credit": "Wikimedia Commons" },
+        { "file": "Airstream Safari 1965 18.jpg", "caption": "1965 Safari — detail", "credit": "Wikimedia Commons" }
+      ],
+      "sovereign/1969": [
+        { "file": "1969 Airstream 31 Sovereign of the Road.jpg", "caption": "A 1969 31-ft Airstream Sovereign 'of the Road'", "credit": "Wikimedia Commons" }
+      ],
+      "tradewind/1962": [
+        { "file": "1962 Airstream Tradewind custom gold 24 foot travel trailer during 2019 Vintage Camper Trailer Rally at Cam-Plex in Campbell County, Wyoming (1).jpg", "caption": "A 1962 24-ft Trade Wind in custom gold anodized finish", "credit": "Wikimedia Commons" },
+        { "file": "1962 Airstream Tradewind custom gold 24 foot travel trailer during 2019 Vintage Camper Trailer Rally at Cam-Plex in Campbell County, Wyoming (2).jpg", "caption": "1962 Trade Wind — rear view", "credit": "Wikimedia Commons" }
+      ],
+      "flying-cloud-classic-era/1958": [
+        { "file": "Airstream Flying Cloud 1958.png", "caption": "A 1958 Airstream Flying Cloud", "credit": "Wikimedia Commons" },
+        { "file": "1958 Airstream travel trailer.jpg", "caption": "A 1958 Airstream travel trailer", "credit": "Wikimedia Commons" }
+      ],
+      "overlander/1963": [
+        { "file": "1963 Airstream trailer in Joshua Tree dllu.jpg", "caption": "A 1963 Airstream in Joshua Tree", "credit": "Wikimedia Commons" }
+      ]
+    },
+    "marketNote": "Weights, rarity and values are approximate and vary widely with length, options and condition — treat them as ballpark, and always verify weights against the trailer's own data plate.",
+    "market": {
+      "torpedo-car-cruiser": { "dry": "≈ 900 lbs", "rarity": "Near-unicorn", "level": 5, "why": "Very few 1930s Torpedoes are known to survive.", "value": "Museum-piece; rarely sold" },
+      "silver-cloud-airlite": { "dry": "≈ 1,600 lbs", "rarity": "Extremely rare", "level": 5, "why": "Pre-Clipper models seldom surface.", "value": "Rarely traded" },
+      "clipper": { "dry": "≈ 2,300 lbs", "rarity": "Grail-level", "level": 5, "why": "The original 1936–41 Clipper is a holy grail for collectors.", "value": "$40,000+ restored (seldom available)" },
+      "wanderer-liner-postwar": { "dry": "≈ 2,600 lbs", "rarity": "Very rare", "level": 4, "why": "Few late-1940s 'Bubble' units survive.", "value": "$20,000–45,000 restored" },
+      "flying-cloud-classic-era": { "dry": "≈ 3,000 lbs", "gvwr": "≈ 3,800 lbs", "rarity": "Sought-after", "level": 4, "why": "A classic 1950s length everyone wants.", "value": "$18,000–40,000 restored" },
+      "cruisette-safari-early": { "dry": "≈ 2,000 lbs", "rarity": "Rare", "level": 4, "why": "Compact 1950s models are scarce.", "value": "$15,000–30,000" },
+      "safari": { "dry": "≈ 3,400 lbs", "gvwr": "≈ 4,500 lbs", "hitch": "≈ 450 lbs", "rarity": "Highly sought-after", "level": 4, "why": "The 22-ft Safari is one of the most desirable vintage lengths.", "value": "$18,000–45,000 restored" },
+      "overlander": { "dry": "≈ 4,200 lbs", "gvwr": "≈ 5,500 lbs", "rarity": "Popular vintage", "level": 3, "why": "Built in good numbers; a full-timing favorite.", "value": "$16,000–40,000" },
+      "tradewind": { "dry": "≈ 3,800 lbs", "gvwr": "≈ 5,000 lbs", "rarity": "Sought-after", "level": 3, "why": "The versatile 24-ft length is well-loved.", "value": "$16,000–38,000" },
+      "globetrotter-classic": { "dry": "≈ 2,900 lbs", "rarity": "Uncommon", "level": 3, "why": "Shorter classic bodies are less common.", "value": "$15,000–32,000" },
+      "bambi-original": { "dry": "≈ 2,300 lbs", "gvwr": "≈ 3,000 lbs", "rarity": "Very rare & iconic", "level": 5, "why": "The 1961–63 16-footer is among the most collectible trailers ever made.", "production": "Only a few hundred built across 1961–63", "value": "$30,000–60,000+ restored" },
+      "caravel": { "dry": "≈ 2,600 lbs", "rarity": "Collectible", "level": 4, "why": "Compact self-contained charm keeps demand high.", "value": "$18,000–38,000" },
+      "ambassador": { "dry": "≈ 4,600 lbs", "gvwr": "≈ 6,000 lbs", "rarity": "Uncommon", "level": 3, "why": "Larger deluxe bodies survive in moderate numbers.", "value": "$16,000–36,000" },
+      "sovereign": { "dry": "≈ 5,000 lbs", "gvwr": "≈ 6,500 lbs", "rarity": "Popular vintage", "level": 3, "why": "The flagship length was built in quantity.", "value": "$16,000–42,000" },
+      "international-land-yacht": { "dry": "Varies by length", "rarity": "Premium trim", "level": 3, "why": "'International' spanned several lengths and commands a premium.", "value": "Above base trim" },
+      "argosy": { "dry": "≈ 3,000–4,500 lbs", "rarity": "Uncommon & distinctive", "level": 3, "why": "Painted bodies make survivors stand out.", "value": "$12,000–28,000" },
+      "excella": { "dry": "≈ 4,500–5,500 lbs", "gvwr": "≈ 6,500 lbs", "rarity": "Common vintage", "level": 2, "why": "Built in good numbers into the 1980s.", "value": "$14,000–35,000" },
+      "airstream-motorhome-70s": { "motorhome": true, "rarity": "Uncommon", "level": 3, "why": "Aluminum Class A survivors are prized.", "value": "$10,000–30,000 running" },
+      "classic-limited": { "dry": "≈ 7,000–8,800 lbs", "gvwr": "≈ 10,000 lbs", "hitch": "≈ 1,000 lbs", "rarity": "Current flagship", "level": 1, "why": "In production; the top of the range.", "value": "New ~$185,000+; holds value well used" },
+      "land-yacht-motorhome": { "motorhome": true, "rarity": "Uncommon", "level": 2, "why": "1980s–2000s Class A coaches turn up occasionally.", "value": "$8,000–40,000 by year" },
+      "bambi-international-ccd": { "dry": "≈ 2,900–4,500 lbs", "gvwr": "≈ 6,000 lbs", "rarity": "Modern used", "level": 2, "why": "Plenty circulate on the used market.", "value": "$25,000–55,000 used" },
+      "interstate": { "motorhome": true, "rarity": "Current / used", "level": 1, "why": "Mercedes-based; strong used demand.", "value": "New ~$185,000+; used $70,000–150,000" },
+      "flying-cloud-modern": { "dry": "≈ 4,300–6,800 lbs", "gvwr": "≈ 6,000–8,800 lbs", "hitch": "≈ 600–900 lbs", "rarity": "Current best-seller", "level": 1, "why": "In production; the most common modern Airstream.", "value": "New ~$90,000–130,000" },
+      "basecamp": { "dry": "≈ 2,650–3,500 lbs", "gvwr": "≈ 3,500–4,300 lbs", "hitch": "≈ 410–500 lbs", "rarity": "Current", "level": 1, "why": "In production; the entry model.", "value": "New ~$47,000–65,000" },
+      "globetrotter-modern": { "dry": "≈ 5,000–7,000 lbs", "gvwr": "≈ 7,300–8,800 lbs", "hitch": "≈ 700–950 lbs", "rarity": "Current premium", "level": 1, "why": "In production.", "value": "New ~$100,000–140,000" },
+      "caravel-bambi-modern": { "dry": "≈ 2,700–4,800 lbs", "gvwr": "≈ 3,500–6,000 lbs", "hitch": "≈ 450–650 lbs", "rarity": "Current", "level": 1, "why": "In production; the compact line.", "value": "New ~$55,000–95,000" },
+      "atlas-rangeline": { "motorhome": true, "rarity": "Current luxury", "level": 1, "why": "Top of the touring-coach range.", "value": "New ~$250,000+" },
+      "trade-wind-modern": { "dry": "≈ 6,500 lbs", "gvwr": "≈ 8,800 lbs", "hitch": "≈ 900 lbs", "rarity": "Current off-grid", "level": 1, "why": "In production; the solar/lithium flagship trailer.", "value": "New ~$150,000+" }
+    },
+    "serial": {
+      "where": "Look for a riveted aluminum data plate — historically inside near the entry door, with the serial also stamped on the A-frame (tongue) at the front. Modern trailers add a 17-character VIN on the frame and door jamb.",
+      "reading": "Vintage plates list the model, length, serial and often the build month/year. From 1981 on, U.S. trailers use a standardized 17-digit VIN whose 10th character encodes the model year. Pre-1981 numbers were sequential and model-specific, so a title or club registry is the surest way to confirm an exact year.",
+      "tip": "The WBCCI and vintage registries can often match a serial number to its build year."
+    },
+    "community": [
+      { "label": "Wally Byam Caravan Club (WBCCI)", "url": "https://wbcci.org/", "note": "The official owners club since 1955." },
+      { "label": "Vintage Airstream Club", "url": "https://vac.wbcci.org/", "note": "WBCCI's club for pre-1980 trailers." },
+      { "label": "Airstream Forums (AirForums)", "url": "https://www.airforums.com/", "note": "The largest Airstream owner forum." },
+      { "label": "Vintage Airstream", "url": "https://www.vintageairstream.com/", "note": "Restoration knowledge base and ad archive." }
+    ],
+    "submitEmail": "",
+    "ownerPhotos": {},
+    "adArchives": [
+      { "label": "Vintage Airstream (vintageairstream.com)", "url": "https://www.vintageairstream.com/" },
+      { "label": "Airstream Heritage — Official", "url": "https://www.airstream.com/heritage/" },
+      { "label": "Internet Archive — search 'Airstream'", "url": "https://archive.org/search?query=Airstream" },
+      { "label": "Wikimedia Commons — Airstream", "url": "https://commons.wikimedia.org/wiki/Category:Airstream" }
+    ]
+  },
+  "eras": [
+    { "id": "founding", "name": "The Founding Era", "years": "1931–1941", "blurb": "Wally Byam builds his first trailers in a Los Angeles backyard, patents the 'Clipper', and pioneers the riveted-aluminum monocoque that defines Airstream forever." },
+    { "id": "postwar", "name": "Postwar Boom", "years": "1945–1959", "blurb": "Production resumes after WWII. Airstream perfects the self-contained trailer, opens an Ohio plant, and launches the model names — Flying Cloud, Safari, Overlander — that still run today." },
+    { "id": "goldenage", "name": "The Golden Age", "years": "1960–1969", "blurb": "The Caravan years. Wally Byam's international caravans make Airstream a legend, the little Bambi arrives, and the lineup swells from the 16-ft Bambi to the 31-ft Sovereign." },
+    { "id": "seventies", "name": "Land Yacht Seventies", "years": "1970–1979", "blurb": "A second plant, the painted Argosy line, the first Airstream motorhome, and the top-trim Excella. Big, comfortable, chrome-and-gold-anodized touring trailers." },
+    { "id": "modernclassic", "name": "Modern Classic", "years": "1980–2005", "blurb": "The Classic name debuts atop the range, the Land Yacht motorhome matures, and designer Christopher Deam reinvents the interior for a new century with the International CCD." },
+    { "id": "revival", "name": "The Revival", "years": "2006–present", "blurb": "A design-led renaissance: reborn Bambi and Caravel, the go-anywhere Basecamp, the Globetrotter, Mercedes-based touring coaches, and smart-tech Classics." }
+  ],
+  "models": [
+    {
+      "id": "torpedo-car-cruiser",
+      "name": "Torpedo Car Cruiser",
+      "era": "founding",
+      "yearStart": 1931, "yearEnd": 1936,
+      "type": "Travel Trailer",
+      "lengths": ["≈ 13–17 ft"],
+      "sleeps": "2–4",
+      "priceNew": "≈ $100 (plans) / built kits",
+      "floorplans": ["Single open cabin with fold-down bunks and a small galley"],
+      "highlights": ["Airstream's first named product", "Sold as both finished trailers and mail-order plans", "Masonite-and-wood body on a light chassis"],
+      "description": "The trailer that started it all. In 1931 Wally Byam began selling the Torpedo Car Cruiser — first as build-it-yourself plans in his magazine, then as finished units from a small Los Angeles shop. Named for its streamlined, teardrop-influenced shell, the Torpedo established Byam's obsession with light weight, low drag and 'a place for everything.' By 1932 more than a thousand were reportedly on the road.",
+      "images": [],
+      "ads": [
+        { "note": "Byam advertised the Torpedo through his own 'Trailer Travel' magazine and mail-order plan listings.", "archive": "https://www.vintageairstream.com/" }
+      ]
+    },
+    {
+      "id": "silver-cloud-airlite",
+      "name": "Silver Cloud & Airlite",
+      "era": "founding",
+      "yearStart": 1934, "yearEnd": 1936,
+      "type": "Travel Trailer",
+      "lengths": ["≈ 16–19 ft"],
+      "sleeps": "2–4",
+      "priceNew": "n/a",
+      "floorplans": ["Front cabin sleeping, mid galley, rear storage"],
+      "highlights": ["Transitional models between the wooden Torpedo and the aluminum Clipper", "Larger, more comfortable cabins", "Steps toward true streamlining"],
+      "description": "Between the pioneering Torpedo and the landmark Clipper, Byam offered larger models such as the Silver Cloud and Airlite. They kept the composite construction of the era but grew roomier and more aerodynamic, bridging the gap to the all-aluminum design that would soon make Airstream famous.",
+      "images": [],
+      "ads": [
+        { "note": "Early Airstream promotion appeared in trailer-travel and automotive magazines of the mid-1930s.", "archive": "https://archive.org/search?query=trailer+travel+magazine+1930s" }
+      ]
+    },
+    {
+      "id": "clipper",
+      "name": "Clipper",
+      "era": "founding",
+      "yearStart": 1936, "yearEnd": 1941,
+      "type": "Travel Trailer",
+      "lengths": ["≈ 19 ft", "≈ 22 ft"],
+      "sleeps": "4",
+      "priceNew": "≈ $1,200",
+      "floorplans": ["Front dinette convertible to bed, center galley, enclosed water supply, rear berth"],
+      "highlights": ["First riveted-aluminum monocoque Airstream", "Named after the Pan Am Clipper flying boats", "Aircraft-style construction: light, strong, aerodynamic", "Water supply, electric lights, an enclosed galley and dry-ice air cooling"],
+      "description": "The 1936 Clipper is the trailer that made Airstream an icon. Inspired by aircraft designer Hawley Bowlus (of Spirit of St. Louis fame) and refined by Byam, its riveted aluminum-alloy skin over a semi-monocoque frame was radically light and strong. It carried its own water, electric lighting, an enclosed galley and even a rudimentary dry-ice cooling system, and it looked like nothing else on the road. Every Airstream since traces its silhouette to the Clipper.",
+      "images": [],
+      "ads": [
+        { "note": "The Clipper was advertised as 'the aristocrat of trailers' — original brochures survive in collector archives.", "archive": "https://www.vintageairstream.com/" }
+      ]
+    },
+    {
+      "id": "wanderer-liner-postwar",
+      "name": "Wanderer / Liner",
+      "era": "postwar",
+      "yearStart": 1945, "yearEnd": 1952,
+      "type": "Travel Trailer",
+      "lengths": ["≈ 18–22 ft"],
+      "sleeps": "4",
+      "priceNew": "n/a",
+      "floorplans": ["Front bedroom, center dinette & galley, rear bath area (early self-contained experiments)"],
+      "highlights": ["First postwar Airstreams as production resumed in 1945", "Refined the rounded 'Bubble' body", "Groundwork for the fully self-contained trailer"],
+      "description": "Airstream halted trailer production during WWII (Byam worked in aircraft manufacturing). When peace returned, the company resumed with rounded, aluminum 'Bubble' trailers under names like Wanderer and Liner, selling into the exploding postwar road-trip market and setting the stage for the self-contained revolution of the late 1950s.",
+      "images": [
+        { "file": "Airstream-1949-Eingang-Front-rechts.jpg", "caption": "A restored 1949 Airstream showing the postwar 'Bubble' body", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "Postwar ads emphasized freedom, family travel and 'living out of doors in comfort.'", "archive": "https://www.vintageairstream.com/" }
+      ]
+    },
+    {
+      "id": "flying-cloud-classic-era",
+      "name": "Flying Cloud",
+      "era": "postwar",
+      "yearStart": 1948, "yearEnd": 1959,
+      "type": "Travel Trailer",
+      "lengths": ["22 ft"],
+      "sleeps": "4",
+      "priceNew": "≈ $2,400",
+      "floorplans": ["Front bedroom or convertible sofa, center galley & dinette, rear bath"],
+      "highlights": ["One of Airstream's longest-lived model names", "Mid-size, easy-towing family trailer", "Named for a 19th-century clipper ship"],
+      "description": "Introduced in the late 1940s, the Flying Cloud became the friendly, mid-size heart of the Airstream line — big enough for a family, light enough to tow behind the sedans of the day. The name proved so enduring that Airstream revived it in 2009, and it remains a cornerstone model to this day.",
+      "images": [
+        { "file": "Airstream Flying Cloud 1958.png", "caption": "A 1958 Airstream Flying Cloud", "credit": "Wikimedia Commons" },
+        { "file": "1958 Airstream travel trailer.jpg", "caption": "A late-1950s Airstream travel trailer", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "1950s ads pitched the Flying Cloud to young families as an affordable path into Airstream ownership.", "archive": "https://www.vintageairstream.com/" }
+      ]
+    },
+    {
+      "id": "cruisette-safari-early",
+      "name": "Cruisette",
+      "era": "postwar",
+      "yearStart": 1953, "yearEnd": 1956,
+      "type": "Travel Trailer",
+      "lengths": ["16 ft", "18 ft"],
+      "sleeps": "2–3",
+      "priceNew": "n/a",
+      "floorplans": ["Compact front dinette/bed, single-side galley"],
+      "highlights": ["Airstream's compact entry of the mid-1950s", "Precursor to the small-trailer idea later perfected by the Bambi"],
+      "description": "The Cruisette answered demand for a smaller, more affordable Airstream that a light family car could tow easily. Its compact footprint foreshadowed the beloved 16-ft Bambi that would arrive at the start of the 1960s.",
+      "images": [
+        { "file": "Airstream trailer 2.jpg", "caption": "A compact vintage Airstream travel trailer", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "Marketed on ease of towing and low price of entry.", "archive": "https://www.vintageairstream.com/" }
+      ]
+    },
+    {
+      "id": "safari",
+      "name": "Safari",
+      "era": "postwar",
+      "yearStart": 1954, "yearEnd": 1979,
+      "type": "Travel Trailer",
+      "lengths": ["22 ft"],
+      "sleeps": "4",
+      "priceNew": "≈ $3,000 (late 1950s)",
+      "floorplans": ["Front bedroom, center dinette & galley, rear bath (self-contained)"],
+      "highlights": ["Named for Wally Byam's legendary caravans", "The quintessential mid-size Airstream of the 1960s", "22-ft length ideal for couples and small families"],
+      "description": "Few names capture Airstream's spirit like Safari — a nod to Wally Byam's globe-spanning caravans. The 22-ft Safari became one of the most popular trailers of the 1960s: self-contained, easy to tow, and perfectly sized for adventure. Airstream revived the Safari name decades later for a new generation.",
+      "images": [
+        { "file": "Airstream Safari 1965 01.jpg", "caption": "A 1965 Airstream Safari", "credit": "Wikimedia Commons" },
+        { "file": "Airstream Safari 1965 09.jpg", "caption": "1965 Safari — side profile", "credit": "Wikimedia Commons" },
+        { "file": "Airstream Safari 1965 14.jpg", "caption": "1965 Safari — interior detail", "credit": "Wikimedia Commons" },
+        { "file": "Airstream Safari Caravan.jpg", "caption": "An Airstream Safari on the road", "credit": "Wikimedia Commons" },
+        { "file": "Airstream Safari, Old Town AIexandria waterfront.jpg", "caption": "A Safari parked on the Old Town Alexandria waterfront", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "Safari advertising leaned into the romance of the Wally Byam Caravan Club and world travel.", "archive": "https://www.vintageairstream.com/" }
+      ]
+    },
+    {
+      "id": "overlander",
+      "name": "Overlander",
+      "era": "postwar",
+      "yearStart": 1958, "yearEnd": 1979,
+      "type": "Travel Trailer",
+      "lengths": ["26 ft"],
+      "sleeps": "4–6",
+      "priceNew": "≈ $4,500 (1960s)",
+      "floorplans": ["Front bedroom, center bath, rear dinette/lounge & galley — or twin/double bed variants"],
+      "highlights": ["Airstream's big-family touring trailer", "Named for the trans-continental 'overland' caravans", "A favorite for extended and full-time travel"],
+      "description": "The 26-ft Overlander was built for going the distance — Byam himself favored larger trailers for his international caravans. With room for a family and full self-contained systems, the Overlander became the go-to for long-haul and full-time Airstreamers through the 1960s and 70s.",
+      "images": [
+        { "file": "1963 Airstream trailer in Joshua Tree dllu.jpg", "caption": "A 1963 Airstream in Joshua Tree — the long-body touring era", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "Ads framed the Overlander as the trailer for those who 'live in it, not just vacation in it.'", "archive": "https://www.vintageairstream.com/" }
+      ]
+    },
+    {
+      "id": "tradewind",
+      "name": "Trade Wind",
+      "era": "postwar",
+      "yearStart": 1956, "yearEnd": 1979,
+      "type": "Travel Trailer",
+      "lengths": ["24 ft"],
+      "sleeps": "4",
+      "priceNew": "≈ $4,000 (1960s)",
+      "floorplans": ["Front bedroom, center bath & galley, rear lounge/dinette"],
+      "highlights": ["The versatile 24-ft 'in-between' size", "Bridged the Safari and Overlander", "Revived in 2024 as an off-grid-capable trailer"],
+      "description": "Slotting neatly between the 22-ft Safari and 26-ft Overlander, the 24-ft Trade Wind offered a sweet spot of livability and towability. The name returned in 2024 on a modern, solar-and-lithium off-grid Airstream — a fitting tribute to a classic.",
+      "images": [
+        { "file": "1962 Airstream Tradewind custom gold 24 foot travel trailer during 2019 Vintage Camper Trailer Rally at Cam-Plex in Campbell County, Wyoming (1).jpg", "caption": "A 1962 24-ft Trade Wind in custom gold anodized finish", "credit": "Wikimedia Commons" },
+        { "file": "1962 Airstream Tradewind custom gold 24 foot travel trailer during 2019 Vintage Camper Trailer Rally at Cam-Plex in Campbell County, Wyoming (2).jpg", "caption": "1962 Trade Wind — rear view", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "Promoted as the ideal all-around family length.", "archive": "https://www.vintageairstream.com/" }
+      ]
+    },
+    {
+      "id": "globetrotter-classic",
+      "name": "Globe Trotter",
+      "era": "postwar",
+      "yearStart": 1956, "yearEnd": 1969,
+      "type": "Travel Trailer",
+      "lengths": ["19 ft", "20 ft"],
+      "sleeps": "4",
+      "priceNew": "n/a",
+      "floorplans": ["Front dinette/bed, center galley, rear bedroom or twin beds"],
+      "highlights": ["Compact-to-mid international traveler", "Name revived in 2018 as a premium European-styled model"],
+      "description": "The original Globe Trotter was a compact-to-mid-size trailer aimed at the wandering spirit its name implies. Airstream brought the Globetrotter name back in 2018 for a premium, European-influenced trim with a distinctive modern interior.",
+      "images": [
+        { "file": "Airstream trailer.JPG", "caption": "A classic polished Airstream travel trailer", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "Named to evoke worldwide travel and the caravan lifestyle.", "archive": "https://www.vintageairstream.com/" }
+      ]
+    },
+    {
+      "id": "bambi-original",
+      "name": "Bambi",
+      "era": "goldenage",
+      "yearStart": 1961, "yearEnd": 1963,
+      "type": "Travel Trailer",
+      "lengths": ["16 ft"],
+      "sleeps": "2",
+      "priceNew": "≈ $2,800",
+      "floorplans": ["Rear dinette/bed, mid galley & bath, front storage — famously compact single-room layout"],
+      "highlights": ["The smallest classic Airstream — an icon of cuteness", "Highly collectible today", "Inspired the modern small-trailer revival"],
+      "description": "The original 16-ft Bambi (1961–1963) is the most beloved of all small Airstreams — light enough for a modest car, endlessly charming, and today among the most sought-after vintage trailers in existence. Its name was resurrected in the 2000s and again in 2020 for Airstream's modern compact line.",
+      "images": [
+        { "file": "Airstream Bambi Trailer (12493788715).jpg", "caption": "A vintage Airstream Bambi", "credit": "Wikimedia Commons" },
+        { "file": "Airstream Bambi, view 1 - 20200819 091623.jpg", "caption": "Airstream Bambi — front three-quarter view", "credit": "Wikimedia Commons" },
+        { "file": "Airstream Bambi, view 2 - 20200819 091554.jpg", "caption": "Airstream Bambi — rear view", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "The Bambi was pitched at couples and first-time buyers wanting the Airstream look in a tow-anywhere size.", "archive": "https://www.vintageairstream.com/" }
+      ]
+    },
+    {
+      "id": "caravel",
+      "name": "Caravel",
+      "era": "goldenage",
+      "yearStart": 1965, "yearEnd": 1969,
+      "type": "Travel Trailer",
+      "lengths": ["17 ft", "18 ft", "19 ft"],
+      "sleeps": "2–4",
+      "priceNew": "n/a",
+      "floorplans": ["Front gaucho/dinette bed, center galley & bath, rear beds"],
+      "highlights": ["Compact touring trailer with full self-contained systems", "Name revived in 2019 for the modern polished-interior line"],
+      "description": "The 1960s Caravel packed genuine self-contained capability into a compact, easily towed body. Prized by vintage collectors for its balance of size and features, the Caravel name returned in 2019 on a modern model celebrated for its retro-polished aluminum interior accents.",
+      "images": [
+        { "file": "Airstream Caravel - Arlington, MA.jpg", "caption": "An Airstream Caravel", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "Sold on the promise of full trailer comforts in a compact package.", "archive": "https://www.vintageairstream.com/" }
+      ]
+    },
+    {
+      "id": "ambassador",
+      "name": "Ambassador",
+      "era": "goldenage",
+      "yearStart": 1963, "yearEnd": 1979,
+      "type": "Travel Trailer",
+      "lengths": ["28 ft"],
+      "sleeps": "4–6",
+      "priceNew": "≈ $5,500 (1960s)",
+      "floorplans": ["Front bedroom, center bath, rear lounge & galley; twin or double bed options"],
+      "highlights": ["Introduced with the International-grade deluxe trim", "Large touring trailer just below the flagship Sovereign"],
+      "description": "The 28-ft Ambassador debuted in 1963 as part of Airstream's move upmarket, offering generous space and deluxe International-series appointments. It sat near the top of the range, just under the flagship Sovereign, for buyers who wanted room to roam in style.",
+      "images": [
+        { "file": "Airstream International trailer.jpg", "caption": "An Airstream International-series trailer, the deluxe trim shared by the Ambassador", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "Positioned as a luxury long-body tourer.", "archive": "https://www.vintageairstream.com/" }
+      ]
+    },
+    {
+      "id": "sovereign",
+      "name": "Sovereign",
+      "era": "goldenage",
+      "yearStart": 1965, "yearEnd": 1979,
+      "type": "Travel Trailer",
+      "lengths": ["30 ft", "31 ft"],
+      "sleeps": "4–6",
+      "priceNew": "≈ $6,500 (late 1960s)",
+      "floorplans": ["Front bedroom, center bath, rear lounge/dinette & galley — the classic 'Sovereign of the Road' layout"],
+      "highlights": ["The flagship full-length Airstream of the era", "Marketed as the 'Sovereign of the Road'", "Roomy enough for extended and full-time living"],
+      "description": "The Sovereign was the era's flagship — a full 30–31 ft of polished aluminum billed as the 'Sovereign of the Road.' With a proper bedroom, central bath and a spacious rear lounge, it was the trailer for those who wanted the most Airstream money could buy.",
+      "images": [
+        { "file": "1969 Airstream 31 Sovereign of the Road.jpg", "caption": "A 1969 31-ft Airstream Sovereign 'of the Road'", "credit": "Wikimedia Commons" },
+        { "file": "Airstream International caravan.jpg", "caption": "A long-body Airstream in International/Sovereign configuration", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "Advertised as the top of the line — the ultimate land yacht of its day.", "archive": "https://www.vintageairstream.com/" }
+      ]
+    },
+    {
+      "id": "international-land-yacht",
+      "name": "International (Land Yacht)",
+      "era": "goldenage",
+      "yearStart": 1960, "yearEnd": 1979,
+      "type": "Travel Trailer",
+      "lengths": ["Various — 22 to 31 ft"],
+      "sleeps": "4–6",
+      "priceNew": "premium trim upgrade",
+      "floorplans": ["Deluxe versions of Safari, Overlander and Sovereign floor plans"],
+      "highlights": ["Top-tier 'International' trim across multiple model lengths", "Upgraded appointments, appliances and finishes", "'Land Yacht' became the era's nickname for the whole range"],
+      "description": "'International' was Airstream's premium trim designation, applied across the model lengths to denote upgraded appliances, finishes and features — the difference between a fine trailer and a truly deluxe one. The romantic 'Land Yacht' nickname of these years still colors how people picture a classic Airstream.",
+      "images": [
+        { "file": "Airstream International caravan.jpg", "caption": "An Airstream International-series caravan", "credit": "Wikimedia Commons" },
+        { "file": "Airstream 151.jpg", "caption": "A polished classic Airstream in touring trim", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "The International trim was advertised as the connoisseur's Airstream.", "archive": "https://www.vintageairstream.com/" }
+      ]
+    },
+    {
+      "id": "argosy",
+      "name": "Argosy",
+      "era": "seventies",
+      "yearStart": 1972, "yearEnd": 1979,
+      "type": "Travel Trailer",
+      "lengths": ["20 ft", "24 ft", "26 ft", "28 ft"],
+      "sleeps": "4–6",
+      "priceNew": "value-priced vs. polished Airstreams",
+      "floorplans": ["Front or rear bedroom variants with center bath and galley"],
+      "highlights": ["Painted (usually beige) instead of polished — hid non-cosmetic aluminum", "Built at the Versailles, Ohio plant", "Distinctive rounded 'wrap' front and rear windows on some models", "A more affordable way into an Airstream-built trailer"],
+      "description": "Argosy was Airstream's clever value line: built on the same principles but painted (typically beige or 'sandstone') so it could use aluminum panels without cosmetic-grade polish. Produced in Versailles, Ohio from 1972, Argosy trailers — and later motorhomes — offered the Airstream build at a friendlier price. The line wound down at the end of the decade, making surviving examples a distinctive collector favorite.",
+      "images": [
+        { "file": "Airstream Travel Trailer - Flickr - brewbooks.jpg", "caption": "A classic Airstream-built travel trailer of the 1970s", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "Argosy ads highlighted Airstream engineering at a more accessible price.", "archive": "https://www.vintageairstream.com/" }
+      ]
+    },
+    {
+      "id": "excella",
+      "name": "Excella",
+      "era": "seventies",
+      "yearStart": 1975, "yearEnd": 1990,
+      "type": "Travel Trailer",
+      "lengths": ["25 ft", "27 ft", "31 ft"],
+      "sleeps": "4",
+      "priceNew": "top-trim pricing",
+      "floorplans": ["Rear bedroom or rear bath, center galley & dinette, front lounge"],
+      "highlights": ["Top-of-the-line trim from the mid-70s into the 80s", "Deluxe finishes, appliances and upholstery", "Often seen with the wide 'Excella' script bands"],
+      "description": "The Excella took over as Airstream's premium trim in the mid-1970s and carried the flag into the 1980s — the best-appointed trailer in the catalog, with upgraded galleys, finishes and comforts. An Excella 500 of this era is a benchmark 'classic modern' Airstream.",
+      "images": [
+        { "file": "Airstream Travel Trailer - Flickr - brewbooks (1).jpg", "caption": "A well-kept later polished Airstream touring trailer", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "Advertised as the finest Airstream of its day.", "archive": "https://www.vintageairstream.com/" }
+      ]
+    },
+    {
+      "id": "airstream-motorhome-70s",
+      "name": "Airstream Motorhome (Class A)",
+      "era": "seventies",
+      "yearStart": 1974, "yearEnd": 1990,
+      "type": "Motorhome (Class A)",
+      "lengths": ["24 ft", "28 ft", "31 ft"],
+      "sleeps": "4–6",
+      "priceNew": "n/a",
+      "floorplans": ["Front cab & lounge, center galley & bath, rear bedroom — self-propelled land yacht"],
+      "highlights": ["Airstream's first motorhome (1974)", "Riveted-aluminum Class A body", "Foundation of the later Land Yacht motorhome line"],
+      "description": "In 1974 Airstream applied its aluminum craft to a self-propelled 'land yacht,' launching its first motorhome. These riveted-aluminum Class A coaches carried the Airstream look under their own power and led directly to the Land Yacht motorhomes of the following decades.",
+      "images": [
+        { "file": "Airstream 310 01.jpg", "caption": "An Airstream Class A motorhome (310 series)", "credit": "Wikimedia Commons" },
+        { "file": "Airstream 310 RV.jpg", "caption": "Airstream 310 motorhome — road view", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "Marketed as the self-propelled Airstream land yacht.", "archive": "https://www.vintageairstream.com/" }
+      ]
+    },
+    {
+      "id": "classic-limited",
+      "name": "Classic / Limited",
+      "era": "modernclassic",
+      "yearStart": 1990, "yearEnd": 2025,
+      "type": "Travel Trailer",
+      "lengths": ["25 ft", "28 ft", "30 ft", "33 ft"],
+      "sleeps": "4–5",
+      "priceNew": "flagship pricing",
+      "floorplans": ["Rear bedroom, center bath(s), front lounge & galley — the top-appointed layouts"],
+      "highlights": ["The flagship model name from 1990 to today", "Largest and most luxurious travel trailers Airstream makes", "Modern versions add smart-tech, heated floors and premium finishes"],
+      "description": "The Classic (and its 'Limited' predecessor) has anchored the top of the Airstream range since 1990. These are the largest, most luxurious silver trailers in the catalog — and today's Classic pairs that heritage with a Smart Control System, panoramic windows, and hotel-grade appointments.",
+      "images": [
+        { "file": "Airstream International trailer.jpg", "caption": "A large, modern polished Airstream trailer", "credit": "Wikimedia Commons" },
+        { "file": "Airstream 1.jpg", "caption": "A modern Airstream in polished aluminum", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "Positioned as the ultimate expression of the Airstream trailer.", "archive": "https://www.airstream.com/travel-trailers/airstream-classic/" }
+      ]
+    },
+    {
+      "id": "land-yacht-motorhome",
+      "name": "Land Yacht Motorhome",
+      "era": "modernclassic",
+      "yearStart": 1979, "yearEnd": 2010,
+      "type": "Motorhome (Class A)",
+      "lengths": ["25–34 ft"],
+      "sleeps": "4–6",
+      "priceNew": "n/a",
+      "floorplans": ["Front cab & lounge, central galley/bath, rear bedroom or twin-bed layouts"],
+      "highlights": ["The definitive Airstream Class A of the 80s–2000s", "Aluminum and later composite bodies", "Also spawned Argosy and Legacy motorhome variants"],
+      "description": "The Land Yacht name carried Airstream's motorhome program from the late 1970s through the 2000s — comfortable, well-built Class A coaches that brought the touring-in-comfort ethos to the driver's seat. Related badges (Argosy, Legacy) appeared over the years as the line evolved.",
+      "images": [
+        { "file": "Airstream 310 02.jpg", "caption": "An Airstream Land Yacht-era motorhome", "credit": "Wikimedia Commons" },
+        { "file": "Airstream 310 03.jpg", "caption": "Airstream motorhome — three-quarter view", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "Advertised as the motorized Airstream land yacht.", "archive": "https://www.vintageairstream.com/" }
+      ]
+    },
+    {
+      "id": "bambi-international-ccd",
+      "name": "Bambi / International CCD",
+      "era": "modernclassic",
+      "yearStart": 2002, "yearEnd": 2016,
+      "type": "Travel Trailer",
+      "lengths": ["16 ft", "19 ft", "22 ft", "25 ft"],
+      "sleeps": "2–4",
+      "priceNew": "n/a",
+      "floorplans": ["Modernist open plans by designer Christopher Deam — rear bath or rear bed, streamlined galley"],
+      "highlights": ["Revived the small Airstream idea for the 2000s", "Christopher C. Deam (CCD) redesigned the interior for a modern era", "Bridged vintage charm and contemporary design"],
+      "description": "In the 2000s Airstream reconnected with its small-trailer roots, reviving the Bambi name and commissioning designer Christopher C. Deam to modernize the interior. The resulting International CCD models — clean, bright and contemporary — reintroduced Airstream to a new design-conscious generation.",
+      "images": [
+        { "file": "Airstream International trailer.jpg", "caption": "A modern Airstream International-series trailer", "credit": "Wikimedia Commons" },
+        { "file": "Airstream Trailer (2916637951).jpg", "caption": "A contemporary polished Airstream", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "Marketed on modern design and the reborn Airstream lifestyle.", "archive": "https://www.airstream.com/heritage/" }
+      ]
+    },
+    {
+      "id": "interstate",
+      "name": "Interstate (Touring Coach)",
+      "era": "revival",
+      "yearStart": 2004, "yearEnd": 2025,
+      "type": "Motorhome (Class B)",
+      "lengths": ["19 ft", "24 ft"],
+      "sleeps": "2–4",
+      "priceNew": "premium",
+      "floorplans": ["Front cab lounge, mid galley & seating, rear bed/bath on a Mercedes-Benz Sprinter chassis"],
+      "highlights": ["Built on the Mercedes-Benz Sprinter van", "Airstream's luxury Class B touring coach", "Drives like a van, lives like a yacht"],
+      "description": "The Interstate brought Airstream into the modern touring-coach era: a luxury Class B motorhome built on the Mercedes-Benz Sprinter chassis, with a full galley and bath in a package easy enough to daily-drive. It established the premium van-life segment Airstream still leads.",
+      "images": [
+        { "file": "Airstream 310 RV.jpg", "caption": "An Airstream motorized touring coach", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "Advertised on Mercedes-Benz refinement paired with Airstream craft.", "archive": "https://www.airstream.com/touring-coaches/" }
+      ]
+    },
+    {
+      "id": "flying-cloud-modern",
+      "name": "Flying Cloud (Modern)",
+      "era": "revival",
+      "yearStart": 2009, "yearEnd": 2025,
+      "type": "Travel Trailer",
+      "lengths": ["23 ft", "25 ft", "27 ft", "28 ft", "30 ft"],
+      "sleeps": "4–6",
+      "priceNew": "mid-range flagship",
+      "floorplans": ["Front or rear bedroom, bunk options, family-friendly center layouts — the most floor-plan choices in the range"],
+      "highlights": ["The best-selling modern Airstream", "The widest choice of lengths and floor plans", "Family and bunk layouts available"],
+      "description": "Airstream revived the Flying Cloud in 2009, and it has since become the brand's versatile best-seller — offered in the widest span of lengths and floor plans, including family-friendly bunk layouts. It's the model most buyers choose as their first modern Airstream.",
+      "images": [
+        { "file": "Airstream travel trailer, Lakolk beach, Rømø island, Denmark (2024-08-19).jpg", "caption": "A modern Airstream travel trailer at the beach", "credit": "Wikimedia Commons" },
+        { "file": "Airstream caravan by the pier on Furillen 1.jpg", "caption": "A modern Airstream by the pier on Furillen, Sweden", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "The modern Flying Cloud is marketed as the do-everything Airstream.", "archive": "https://www.airstream.com/travel-trailers/flying-cloud/" }
+      ]
+    },
+    {
+      "id": "basecamp",
+      "name": "Basecamp",
+      "era": "revival",
+      "yearStart": 2016, "yearEnd": 2025,
+      "type": "Travel Trailer",
+      "lengths": ["16 ft", "20 ft"],
+      "sleeps": "2–4",
+      "priceNew": "entry-level",
+      "floorplans": ["Convertible rear dinette/bed, wet bath, rear hatch for gear — adventure/toy-hauler style"],
+      "highlights": ["Airstream's rugged, go-anywhere small trailer", "Wide rear hatch swallows bikes and gear", "Lightweight, aerodynamic, off-grid-capable"],
+      "description": "The Basecamp reimagined the small Airstream as an adventure machine: light, aerodynamic and tough, with a big rear cargo hatch for bikes, boards and gear, plus a wet bath and convertible sleeping. It's the model that draws outdoors-first buyers who might never have considered a silver trailer.",
+      "images": [
+        { "file": "Airstream Trailer (1333647988).jpg", "caption": "A compact modern Airstream trailer", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "Marketed to outdoor enthusiasts; sold in REI and other special editions.", "archive": "https://www.airstream.com/travel-trailers/basecamp/" }
+      ]
+    },
+    {
+      "id": "globetrotter-modern",
+      "name": "Globetrotter (Modern)",
+      "era": "revival",
+      "yearStart": 2018, "yearEnd": 2025,
+      "type": "Travel Trailer",
+      "lengths": ["23 ft", "25 ft", "27 ft", "30 ft"],
+      "sleeps": "4–5",
+      "priceNew": "premium",
+      "floorplans": ["Twin or queen rear bed, central bath, front lounge — European-influenced interiors"],
+      "highlights": ["Premium, European-styled interior design", "Distinctive materials and finishes", "Slots between Flying Cloud and Classic"],
+      "description": "The reborn Globetrotter (2018) is Airstream's design-forward premium trailer, with European-influenced interiors, richer materials and a more curated aesthetic than the everyday Flying Cloud — for buyers who want extra polish without stepping up to the flagship Classic.",
+      "images": [
+        { "file": "Airstream caravan by the pier on Furillen 3.jpg", "caption": "A premium modern Airstream trailer", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "Advertised on refined, European-inspired design.", "archive": "https://www.airstream.com/travel-trailers/globetrotter/" }
+      ]
+    },
+    {
+      "id": "caravel-bambi-modern",
+      "name": "Caravel & Bambi (Modern)",
+      "era": "revival",
+      "yearStart": 2019, "yearEnd": 2025,
+      "type": "Travel Trailer",
+      "lengths": ["16 ft", "19 ft", "20 ft", "22 ft"],
+      "sleeps": "2–4",
+      "priceNew": "entry to mid",
+      "floorplans": ["Shared 16/19/20/22-ft layouts — rear bath or rear bed, compact galley; Caravel adds polished-aluminum interior accents"],
+      "highlights": ["Reborn compact classics (Bambi 2020, Caravel 2019)", "Identical floor plans; Caravel is the more premium trim", "The easy-tow gateway into modern Airstream ownership"],
+      "description": "Airstream relaunched two beloved small-trailer names for a new era: the Caravel (2019) and Bambi (2020). They share the same tidy 16-, 19-, 20- and 22-ft floor plans, with the Caravel carrying more premium finishes and signature polished-aluminum interior accents. Together they're the friendliest way into a modern Airstream.",
+      "images": [
+        { "file": "Airstream Caravel - Arlington, MA.jpg", "caption": "An Airstream Caravel", "credit": "Wikimedia Commons" },
+        { "file": "Airstream Bambi Trailer (12493788715).jpg", "caption": "An Airstream Bambi", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "Marketed as heritage names reborn for modern adventurers.", "archive": "https://www.airstream.com/travel-trailers/" }
+      ]
+    },
+    {
+      "id": "atlas-rangeline",
+      "name": "Atlas & Rangeline (Touring Coaches)",
+      "era": "revival",
+      "yearStart": 2017, "yearEnd": 2025,
+      "type": "Motorhome (Class B/B+)",
+      "lengths": ["24 ft", "25 ft"],
+      "sleeps": "2",
+      "priceNew": "top-tier",
+      "floorplans": ["Atlas: Murphy-bed suite, full bath, rear lounge (B+); Rangeline: modern galley, convertible seating, wet/dry bath"],
+      "highlights": ["Atlas (2017): luxury B+ with a slide-out Murphy suite", "Rangeline (2023): reimagined modern touring coach", "Both on the Mercedes-Benz Sprinter platform"],
+      "description": "At the top of Airstream's motorized range sit the Atlas — a luxury Class B+ with a clever Murphy-bed suite that opens the floor by day — and the Rangeline, a 2023 ground-up touring coach with a modern galley and flexible living space. Both build on the Mercedes-Benz Sprinter for road refinement.",
+      "images": [
+        { "file": "Airstream 310 03.jpg", "caption": "An Airstream motorized touring coach", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "Advertised as Airstream's most luxurious way to drive and camp.", "archive": "https://www.airstream.com/touring-coaches/" }
+      ]
+    },
+    {
+      "id": "trade-wind-modern",
+      "name": "Trade Wind (Modern Off-Grid)",
+      "era": "revival",
+      "yearStart": 2024, "yearEnd": 2025,
+      "type": "Travel Trailer",
+      "lengths": ["25 ft", "27 ft"],
+      "sleeps": "4",
+      "priceNew": "premium",
+      "floorplans": ["Rear or front bedroom, central bath, front lounge — built around a large solar + lithium off-grid system"],
+      "highlights": ["Revives the classic Trade Wind name (2024)", "Factory solar and lithium battery bank for boondocking", "Airstream's most off-grid-capable trailer"],
+      "description": "In 2024 Airstream brought back the Trade Wind name on its most off-grid-ready trailer yet — a factory package of expanded solar, a large lithium battery bank and efficient systems built for days away from hookups. A modern nod to the caravanning spirit of the original.",
+      "images": [
+        { "file": "Airstream caravan by the pier on Furillen 5.jpg", "caption": "A modern Airstream trailer in a remote setting", "credit": "Wikimedia Commons" }
+      ],
+      "ads": [
+        { "note": "Marketed on solar/lithium off-grid capability.", "archive": "https://www.airstream.com/travel-trailers/trade-wind/" }
+      ]
+    }
+  ]
+}

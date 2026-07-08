@@ -1,0 +1,16 @@
+# The EWUA OPC/SCADA collector lives in this same folder — NEVER track it here.
+ops/
+
+.DS_Store
+**/.DS_Store
+.claude/
+scripts/*_results.json
+node_modules/
+Thumbs.db
+.wrangler/
+.dev.vars
+.env
+**/.env
+*.pem
+*.der
+ops/collector/.env

@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "intro": "A working bibliography of books about Airstream, Wally Byam, and the caravanning life he inspired — from his own 1949 handbook to modern coffee-table histories. Every title links to Amazon, and the descriptions here are written in my own words.",
+    "note": "Book covers shown are from the Open Library cover archive; titles without a cover on file show a styled placeholder. Spotted a book we're missing? The list lives in data/books.json and is easy to extend.",
+    "amazonTag": ""
+  },
+  "categories": [
+    { "id": "history", "name": "Histories & Photography" },
+    { "id": "byam", "name": "By Wally Byam & the Caravan Founders" },
+    { "id": "travel", "name": "Caravan Travel Memoirs" },
+    { "id": "related", "name": "Related Reading — Vintage Trailers" }
+  ],
+  "books": [
+    {
+      "id": "history-land-yacht",
+      "asin": "0811824713",
+      "title": "Airstream: The History of the Land Yacht",
+      "authors": "Bryan Burkhart & David Hunt",
+      "year": 2000,
+      "category": "history",
+      "cover": "assets/books/history-land-yacht.jpg",
+      "description": "If I could keep only one Airstream book on the shelf, this would be it. Burkhart and Hunt trace the silver trailer from Wally Byam's backyard experiments to the polished icon of the open road, pairing a genuine history with photography that makes you want to hitch up and leave tonight. It's the title that taught a design-conscious generation to fall for the rivet."
+    },
+    {
+      "id": "americas-world-traveler",
+      "asin": "0760349991",
+      "title": "Airstream: America's World Traveler",
+      "authors": "Patrick R. Foster",
+      "year": 2016,
+      "category": "history",
+      "description": "The book I reach for when I want the whole story in one volume — Byam the man, the company he built, and the caravans that carried the Airstream name across five continents. With more than 250 images, it reads as much like a picture book as a reference, and it's the most complete modern account I know of."
+    },
+    {
+      "id": "airstream-landau",
+      "asin": "0879051493",
+      "title": "Airstream",
+      "authors": "Robert Landau & James Phillippi",
+      "year": 1984,
+      "category": "history",
+      "description": "One of the earliest books to treat the trailer as a serious object of design, this 1980s volume captures the Airstream from the streamlined 1930s through the land-yacht era. It's become a time capsule in its own right, and a rewarding hunt for collectors who want to see how the story looked before the nostalgia set in."
+    },
+    {
+      "id": "silver-palaces",
+      "asin": "158685352X",
+      "title": "Silver Palaces",
+      "authors": "Douglas Keister",
+      "year": 2004,
+      "category": "history",
+      "cover": "assets/books/silver-palaces.jpg",
+      "description": "Douglas Keister is the great photographer of American aluminum, and this is his love letter to it. Airstreams share the pages with their streamlined rivals, all shot with a reverence that turns riveted skins into rolling sculpture. Keep it out where guests can find it."
+    },
+    {
+      "id": "ready-to-roll",
+      "title": "Ready to Roll: A Celebration of the Classic American Travel Trailer",
+      "authors": "Arrol Gellner & Douglas Keister",
+      "year": 2003,
+      "category": "history",
+      "cover": "assets/books/ready-to-roll.jpg",
+      "description": "A wider-angle look at the golden age of the American travel trailer, with Keister's photography and Arrol Gellner's text. Airstream sits at the head of the table, but the book places the silver bullet in the full context of the trailering boom it helped define — which only makes the Airstream look better."
+    },
+    {
+      "id": "airstream-living",
+      "asin": "0061151645",
+      "title": "Airstream Living",
+      "authors": "Bruce Littlefield",
+      "year": 2005,
+      "category": "history",
+      "cover": "assets/books/airstream-living.jpg",
+      "description": "This is the interiors-and-lifestyle book — how people actually live in, restore and restyle their trailers. Littlefield makes the case that an Airstream isn't just transportation but a way of keeping house, and the rooms inside are endlessly inspiring if you've got a restoration in mind."
+    },
+    {
+      "id": "trailerama",
+      "asin": "1423621425",
+      "title": "Trailerama",
+      "authors": "Phil Noyes",
+      "year": 2015,
+      "category": "history",
+      "cover": "assets/books/trailerama.jpg",
+      "description": "Phil Noyes, who shot the definitive Land Yacht history, turns his camera loose on the whole culture of the trailer. It's a joyful, picture-first romp — light on text, heavy on nostalgia — and the Airstream is never far from the frame."
+    },
+    {
+      "id": "airstream-memories",
+      "title": "Airstream Memories",
+      "authors": "Robert Brunkowski & Ardith Closen",
+      "year": 2008,
+      "category": "history",
+      "description": "For the collector who loves the ephemera as much as the trailer, this Schiffer guide catalogs the memorabilia — the badges, brochures, pennants and promotional odds and ends that orbit the Airstream world. A natural companion to an archive like this one."
+    },
+    {
+      "id": "rvs-and-campers",
+      "asin": "158388064X",
+      "title": "RVs and Campers: An Illustrated History",
+      "authors": "Donald F. Wood",
+      "year": 2002,
+      "category": "history",
+      "cover": "assets/books/rvs-and-campers.jpg",
+      "description": "Donald Wood's illustrated survey zooms out to the entire recreational-vehicle story, but Airstream earns its strong showing throughout. It's a good way to ground yourself in where the silver trailer fits among the campers, coaches and house trailers it shared the road with."
+    },
+    {
+      "id": "fifth-avenue-on-wheels",
+      "title": "Fifth Avenue on Wheels",
+      "authors": "Wally Byam",
+      "year": 1949,
+      "category": "byam",
+      "description": "The founder's own early word on the good life behind a hitch. Long out of print and genuinely hard to find, it's a window into how Wally Byam was thinking about trailer travel before the great caravans made him a household name."
+    },
+    {
+      "id": "trailer-travel-here-and-abroad",
+      "title": "Trailer Travel Here and Abroad: The New Way to Adventurous Living",
+      "authors": "Wally Byam",
+      "year": 1960,
+      "category": "byam",
+      "cover": "assets/books/trailer-travel-here-and-abroad.jpg",
+      "description": "Part how-to manual, part manifesto, part company history — Byam's own book is the closest thing to hearing the man explain why you should sell the house and go see the world. If you want the philosophy behind the aluminum, start here."
+    },
+    {
+      "id": "home-was-never-like-this",
+      "title": "Home Was Never Like This",
+      "authors": "Etta Payne",
+      "year": 1957,
+      "category": "byam",
+      "description": "An early first-hand chronicle of the Wally Byam caravan life, from a time when towing a trailer to the ends of the earth still sounded like science fiction. A charming period voice from the road, and a scarce one."
+    },
+    {
+      "id": "cape-town-to-cairo",
+      "title": "Cape Town to Cairo",
+      "authors": "Lillie Douglas",
+      "year": 1959,
+      "category": "travel",
+      "description": "The book behind one of Airstream's most legendary adventures — the caravan of families that towed their trailers the length of Africa. This is the story that turned the Airstream from a product into a symbol of going absolutely anywhere."
+    },
+    {
+      "id": "land-yachting-central-america",
+      "title": "Land Yachting to Central America",
+      "authors": "Etta Payne",
+      "year": 1960,
+      "category": "travel",
+      "description": "A caravan diary from the height of Airstream's international-adventure era, following the silver trailers south of the border. Payne captures both the romance and the grit of caravanning in the years that built the legend."
+    },
+    {
+      "id": "retire-to-adventure",
+      "title": "Retire to Adventure",
+      "authors": "Harrison M. Karr",
+      "year": 1962,
+      "category": "travel",
+      "description": "The retire-and-roam dream that Airstream sold better than anyone, told first-hand. If you've ever daydreamed about trading the front porch for the open road, here's someone who was already living it in 1962."
+    },
+    {
+      "id": "thank-you-marco-polo",
+      "title": "Thank You Marco Polo",
+      "authors": "McGregor Smith Jr.",
+      "year": 1966,
+      "category": "travel",
+      "cover": "assets/books/thank-you-marco-polo.jpg",
+      "description": "A globe-spanning caravan memoir from the Byam years, when Airstream owners really did circle the world in convoy. It's a good reminder that 'see the world' was a literal promise, not just a tagline."
+    },
+    {
+      "id": "tow-each-his-own",
+      "title": "Tow Each His Own",
+      "authors": "Charles Kiefer",
+      "year": 1968,
+      "category": "travel",
+      "cover": "assets/books/tow-each-his-own.jpg",
+      "description": "One family's life behind the hitch during the caravanning heyday — the small joys and everyday logistics of living on the road that the glossy books tend to skip. Warm, funny, and very much of its moment."
+    },
+    {
+      "id": "rainbow-road",
+      "asin": "0893530123",
+      "title": "Rainbow Road",
+      "authors": "George & Jean Lokie",
+      "year": 1976,
+      "category": "travel",
+      "description": "George and Jean Lokie's account of a 27,000-mile, year-long family trip by Airstream. It's the full-time-travel fantasy taken to its limit, written by people who actually pulled it off with kids in tow."
+    },
+    {
+      "id": "my-life-on-wheels",
+      "title": "My Life on Wheels",
+      "authors": "Art Rouse",
+      "year": 1984,
+      "category": "travel",
+      "description": "A memoir from a central figure in the trailer-travel publishing world, looking back on a life spent chronicling — and living — the RV dream. Good context on the magazines and clubs that grew up around trailers like the Airstream."
+    },
+    {
+      "id": "mexican-caravan",
+      "asin": "0914339788",
+      "title": "Mexican Caravan",
+      "authors": "John MacDonald",
+      "year": 1999,
+      "category": "travel",
+      "description": "A latter-day caravan account that keeps the Byam tradition alive, following a modern convoy south into Mexico. Proof that the caravanning spirit didn't end when the golden age did."
+    },
+    {
+      "id": "wheel-estate",
+      "asin": "0801856418",
+      "title": "Wheel Estate: The Rise and Decline of Mobile Homes",
+      "authors": "Allan D. Wallis",
+      "year": 1991,
+      "category": "related",
+      "description": "The serious, scholarly history of American mobile living — where the mobile home, the house trailer and the Airstream all fit into a bigger social story. Read this when you want to understand the trailer as an idea, not just an object."
+    },
+    {
+      "id": "galloping-bungalows",
+      "asin": "0208022775",
+      "title": "Galloping Bungalows: The Rise and Demise of the American House Trailer",
+      "authors": "David A. Thornburg",
+      "year": 1991,
+      "category": "related",
+      "cover": "assets/books/galloping-bungalows.jpg",
+      "description": "A lively cultural history of the pre-war and post-war house-trailer boom that set the stage for everything Airstream became. The title alone promises a good time; the research makes it genuinely illuminating."
+    }
+  ]
+}

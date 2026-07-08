@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Airstream Models — The Complete Archive | The Airstream Archive</title>
+  <meta name="description" content="Browse every Airstream model line since 1931 — Clipper, Flying Cloud, Safari, Overlander, Bambi, Sovereign, Argosy, Classic, Basecamp and more — with a page for every model year." />
+  <link rel="preconnect" href="https://commons.wikimedia.org" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Work+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../css/styles.css?v=24" />
+</head>
+<body data-page="models">
+  <main id="top">
+    <div id="models-archive">
+      <section id="models" class="models-section" aria-labelledby="models-title">
+        <div class="wrap">
+          <h2 id="models-title" class="section-title">The model archive</h2>
+          <div class="controls" role="region" aria-label="Filter and search models">
+            <div class="search-box">
+              <input type="search" id="search" placeholder="Search models, e.g. Bambi, Sovereign, motorhome…" aria-label="Search models" />
+            </div>
+            <div class="filter-row" id="era-filters" aria-label="Filter by era"></div>
+            <div class="filter-row" id="type-filters" aria-label="Filter by type"></div>
+            <div class="result-count" id="result-count" aria-live="polite"></div>
+          </div>
+          <div class="model-grid" id="model-grid"></div>
+          <p class="no-results" id="no-results" hidden>No models match your filters. <button type="button" id="clear-filters" class="link-btn">Clear filters</button></p>
+        </div>
+      </section>
+    </div>
+    <section id="detail-view" hidden aria-live="polite"></section>
+  </main>
+  <script src="../js/app.js?v=24"></script>
+</body>
+</html>
