@@ -1,5 +1,17 @@
 # Files/folders here are NOT uploaded to Cloudflare as site assets.
 # Everything except index.html + assets/ css/ data/ js/ is excluded.
+
+# NEVER upload the EWUA OPC/SCADA project or any secrets/certs.
+ops
+ops/**
+*.pem
+*.der
+*.key
+*.zip
+.env
+**/.env
+.dev.vars
+
 .git
 .gitignore
 .assetsignore
