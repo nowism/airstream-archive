@@ -71,11 +71,16 @@
     return 'https://commons.wikimedia.org/wiki/File:' + encodeURIComponent(name.replace(/ /g, '_'));
   }
 
-  /* Unified resolvers used everywhere: display (resized), original (biggest
-     available), and the source/credit page. Local files pass through as-is. */
-  function imgURL(file, width) { return isLocal(file) ? file : commonsImg(file, width); }
-  function origURL(file) { return isLocal(file) ? file : commonsFull(file); }
-  function srcPage(file) { return isLocal(file) ? file : commonsPage(file); }
+  /* Resolve a local reference against the site ROOT so relative paths like
+     "assets/ads/x.jpg" work from any sub-page (/caravans/, /models/, …).
+     Absolute http(s) URLs pass through unchanged. */
+  function localURL(file) { return /^https?:\/\//i.test(file) ? file : ROOT + String(file).replace(/^\//, ''); }
+
+  /* Unified resolvers: display (resized), original (biggest), and source page.
+     Local files resolve against ROOT; Commons names build Commons URLs. */
+  function imgURL(file, width) { return isLocal(file) ? localURL(file) : commonsImg(file, width); }
+  function origURL(file) { return isLocal(file) ? localURL(file) : commonsFull(file); }
+  function srcPage(file) { return isLocal(file) ? localURL(file) : commonsPage(file); }
 
   function el(tag, cls, html) {
     var e = document.createElement(tag);
@@ -231,8 +236,9 @@
       var imgs = (c.images || []);
       var media = imgs.length
         ? '<div class="caravan-media">' + imgs.map(function (im) {
-            return '<img loading="lazy" src="' + esc(im.file) + '" alt="' + esc(im.caption || c.name) + '" ' +
-              'data-full="' + esc(im.file) + '" data-original="' + esc(im.file) + '" data-cap="' + esc(im.caption || '') + '">';
+            var u = localURL(im.file);
+            return '<img loading="lazy" src="' + esc(u) + '" alt="' + esc(im.caption || c.name) + '" ' +
+              'data-full="' + esc(u) + '" data-original="' + esc(u) + '" data-cap="' + esc(im.caption || '') + '">';
           }).join('') + '</div>'
         : '';
       card.innerHTML = media +
@@ -280,8 +286,9 @@
       var imgs = m.images || [];
       var media = imgs.length
         ? '<div class="stove-media">' + imgs.map(function (im) {
-            return '<img loading="lazy" src="' + esc(im.file) + '" alt="' + esc(m.name + ' stove — ' + (im.caption || '')) + '" ' +
-              'data-full="' + esc(im.file) + '" data-original="' + esc(im.file) + '" data-cap="' + esc(m.name + ' — ' + (im.caption || '')) + '" ' +
+            var u = localURL(im.file);
+            return '<img loading="lazy" src="' + esc(u) + '" alt="' + esc(m.name + ' stove — ' + (im.caption || '')) + '" ' +
+              'data-full="' + esc(u) + '" data-original="' + esc(u) + '" data-cap="' + esc(m.name + ' — ' + (im.caption || '')) + '" ' +
               'onerror="this.style.display=\'none\'">';
           }).join('') + '</div>'
         : '';
@@ -461,7 +468,7 @@
         var card = el('a', 'book-card');
         card.href = amazonURL(b); card.target = '_blank'; card.rel = 'noopener nofollow sponsored';
         var cover = b.cover
-          ? '<div class="book-cover"><img loading="lazy" src="' + esc(b.cover) + '" alt="Cover of ' + esc(b.title) + '"></div>'
+          ? '<div class="book-cover"><img loading="lazy" src="' + esc(localURL(b.cover)) + '" alt="Cover of ' + esc(b.title) + '"></div>'
           : '<div class="book-cover book-cover-ph"><span>' + esc(b.title) + '</span></div>';
         card.innerHTML =
           cover +
@@ -563,12 +570,13 @@
     var img = new Image();
     img.loading = 'lazy';
     img.alt = a.label + (a.year ? ' — ' + a.year : '');
-    img.src = a.file;
+    img.src = localURL(a.file);
     img.onerror = function () { t.style.display = 'none'; };
     t.appendChild(img);
     t.appendChild(el('span', 'ad-cat', esc(catLabel(a.category) + (a.year ? ' · ' + a.year : ''))));
     t.addEventListener('click', onClick || function () {
-      openLightbox({ display: a.file, original: a.file, cap: adCaption(a), page: null, credit: null });
+      var u = localURL(a.file);
+      openLightbox({ display: u, original: u, cap: adCaption(a), page: null, credit: null });
     });
     return t;
   }
@@ -606,7 +614,7 @@
       var grid = el('div', 'ad-grid');
       items.forEach(function (a) {
         var idx = lbItems.length;
-        lbItems.push({ display: a.file, original: a.file, cap: adCaption(a), page: null, credit: null });
+        lbItems.push({ display: localURL(a.file), original: localURL(a.file), cap: adCaption(a), page: null, credit: null });
         grid.appendChild(adThumb(a, function () { openLightboxSet(lbItems, idx); }));
       });
       g.appendChild(grid);
@@ -713,7 +721,7 @@
         var img = new Image();
         img.loading = 'lazy';
         img.alt = lead ? (lead.caption || m.name) : (m.name + ' — period advertisement');
-        img.src = lead ? imgURL(lead.file, 640) : leadAd.file;
+        img.src = lead ? imgURL(lead.file, 640) : localURL(leadAd.file);
         img.onerror = function () { media.innerHTML = '<div class="placeholder">Photo unavailable</div>'; };
         media.appendChild(img);
         if (leadAd) media.appendChild(el('span', 'card-adtag', 'Period ad'));
@@ -786,9 +794,10 @@
   }
   function adThumbsHTML(list) {
     return '<div class="m-ad-thumbs">' + list.map(function (a) {
+      var u = localURL(a.file);
       return '<button type="button" class="ad-thumb cat-' + a.category + '" ' +
-        'data-adfile="' + esc(a.file) + '" data-adcap="' + esc(adCaption(a)) + '" aria-label="' + esc(a.label) + '">' +
-        '<img loading="lazy" src="' + esc(a.file) + '" alt="' + esc(a.label) + '">' +
+        'data-adfile="' + esc(u) + '" data-adcap="' + esc(adCaption(a)) + '" aria-label="' + esc(a.label) + '">' +
+        '<img loading="lazy" src="' + esc(u) + '" alt="' + esc(a.label) + '">' +
         '<span class="ad-cat">' + esc(catLabel(a.category) + (a.year ? ' · ' + a.year : '')) + '</span></button>';
     }).join('') + '</div>';
   }
