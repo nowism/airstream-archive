@@ -112,7 +112,7 @@
     },
     "community": [
       { "label": "Wally Byam Caravan Club (WBCCI)", "url": "https://wbcci.org/", "note": "The official owners club since 1955." },
-      { "label": "Vintage Airstream Club", "url": "https://vac.wbcci.org/", "note": "WBCCI's club for pre-1980 trailers." },
+      { "label": "Vintage Airstream Club", "url": "https://airstreamclub.org/vintage-airstream-club", "note": "The Airstream Club's chapter for pre-1980 trailers." },
       { "label": "Airstream Forums (AirForums)", "url": "https://www.airforums.com/", "note": "The largest Airstream owner forum." },
       { "label": "Vintage Airstream", "url": "https://www.vintageairstream.com/", "note": "Restoration knowledge base and ad archive." }
     ],
@@ -498,7 +498,7 @@
         { "file": "Airstream 1.jpg", "caption": "A modern Airstream in polished aluminum", "credit": "Wikimedia Commons" }
       ],
       "ads": [
-        { "note": "Positioned as the ultimate expression of the Airstream trailer.", "archive": "https://www.airstream.com/travel-trailers/airstream-classic/" }
+        { "note": "Positioned as the ultimate expression of the Airstream trailer.", "archive": "https://www.airstream.com/travel-trailers/classic/" }
       ]
     },
     {
