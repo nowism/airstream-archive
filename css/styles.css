@@ -248,6 +248,9 @@ section { scroll-margin-top: 76px; }
 .ad-year-head .yc { font-size: .72rem; letter-spacing: .12em; text-transform: uppercase; color: #7fa3bc; font-weight: 400; }
 .ad-year-rule { height: 1px; background: linear-gradient(90deg, var(--sunset), transparent); margin-bottom: 16px; }
 .ad-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
+.ad-more-btn { display: block; margin: 34px auto 6px; padding: 13px 30px; font-family: var(--head); font-size: 1rem; letter-spacing: .06em; text-transform: uppercase; color: #ffe8cc; background: #12283a; border: 1px solid var(--sunset); border-radius: 30px; cursor: pointer; transition: background .15s, transform .15s, box-shadow .15s; }
+.ad-more-btn:hover { background: #1b3a52; transform: translateY(-2px); box-shadow: 0 8px 22px rgba(0,0,0,.45); }
+.ad-more-btn span { display: inline-block; margin-left: 8px; font-size: .72rem; letter-spacing: .12em; color: #8fb2cc; }
 .ad-thumb { position: relative; background: #0c1a24; border: 1px solid #24485e; border-radius: 8px; overflow: hidden; cursor: zoom-in; aspect-ratio: 3 / 4; transition: transform .14s, box-shadow .14s, border-color .14s; }
 .ad-thumb:hover { transform: translateY(-3px) scale(1.02); border-color: var(--sunset); box-shadow: 0 8px 22px rgba(0,0,0,.5); z-index: 2; }
 .ad-thumb img { width: 100%; height: 100%; object-fit: cover; object-position: top center; }

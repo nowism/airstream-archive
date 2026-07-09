@@ -40,6 +40,7 @@
   ];
   var state = { era: 'all', type: 'all', query: '' };
   var adState = { decade: 'all', cat: 'all' };
+  var AD_PAGE = 48; // render ads in batches so hundreds of large scans never mount at once
 
   /* Multi-page site: figure out the site root from this script's own URL so
      assets, data and cross-page links work from any folder depth, on any host. */
@@ -589,37 +590,64 @@
   function renderAdArchive() {
     var wrap = document.getElementById('ad-archive');
     wrap.innerHTML = '';
-    var list = currentAds();
+    // flat display order: by year ascending, undated last (matches the old grouping order)
+    var list = currentAds().sort(function (a, b) {
+      return (a.year || Infinity) - (b.year || Infinity);
+    });
     document.getElementById('ad-count').textContent =
-      list.length + ' item' + (list.length === 1 ? '' : 's') + ' shown';
+      list.length + ' item' + (list.length === 1 ? '' : 's');
 
-    // group by year (undated last)
-    var groups = {};
-    list.forEach(function (a) {
-      var k = a.year || 'Undated';
-      (groups[k] = groups[k] || []).push(a);
-    });
-    var keys = Object.keys(groups).sort(function (x, y) {
-      if (x === 'Undated') return 1; if (y === 'Undated') return -1;
-      return Number(x) - Number(y);
-    });
-    // flat set (in display order) so the lightbox can page across the whole archive
-    var lbItems = [];
-    keys.forEach(function (k) {
-      var g = el('div', 'ad-year-group');
-      var items = groups[k];
-      g.innerHTML = '<h3 class="ad-year-head">' + esc(k) +
-        '<span class="yc">' + items.length + ' item' + (items.length === 1 ? '' : 's') + '</span></h3>' +
-        '<div class="ad-year-rule"></div>';
-      var grid = el('div', 'ad-grid');
-      items.forEach(function (a) {
-        var idx = lbItems.length;
-        lbItems.push({ display: localURL(a.file), original: localURL(a.file), cap: adCaption(a), page: null, credit: null });
-        grid.appendChild(adThumb(a, function () { openLightboxSet(lbItems, idx); }));
-      });
-      g.appendChild(grid);
-      wrap.appendChild(g);
-    });
+    // per-year totals for the group headers
+    var totals = {};
+    list.forEach(function (a) { var k = a.year || 'Undated'; totals[k] = (totals[k] || 0) + 1; });
+
+    // reset paging state, then reveal the first batch. Ads mount in batches of
+    // AD_PAGE so hundreds of full-size scans never decode at once (that crashed the tab).
+    adState.list = list;
+    adState.totals = totals;
+    adState.shown = 0;
+    adState.lbItems = [];
+    adState.lastYearKey = null;
+    adState.lastGrid = null;
+    appendAdPage();
+  }
+
+  function appendAdPage() {
+    var wrap = document.getElementById('ad-archive');
+    var oldBtn = document.getElementById('ad-more');
+    if (oldBtn) wrap.removeChild(oldBtn);
+
+    var list = adState.list;
+    var end = Math.min(adState.shown + AD_PAGE, list.length);
+    for (var i = adState.shown; i < end; i++) {
+      var a = list[i];
+      var key = a.year || 'Undated';
+      if (key !== adState.lastYearKey) {
+        var g = el('div', 'ad-year-group');
+        var cnt = adState.totals[key];
+        g.innerHTML = '<h3 class="ad-year-head">' + esc(key) +
+          '<span class="yc">' + cnt + ' item' + (cnt === 1 ? '' : 's') + '</span></h3>' +
+          '<div class="ad-year-rule"></div>';
+        adState.lastGrid = el('div', 'ad-grid');
+        g.appendChild(adState.lastGrid);
+        wrap.appendChild(g);
+        adState.lastYearKey = key;
+      }
+      var idx = adState.lbItems.length;
+      adState.lbItems.push({ display: localURL(a.file), original: localURL(a.file), cap: adCaption(a), page: null, credit: null });
+      adState.lastGrid.appendChild(adThumb(a, (function (n) {
+        return function () { openLightboxSet(adState.lbItems, n); };
+      })(idx)));
+    }
+    adState.shown = end;
+
+    var remaining = list.length - adState.shown;
+    if (remaining > 0) {
+      var btn = el('button', 'ad-more-btn', 'Show more ads <span>' + remaining + ' remaining</span>');
+      btn.id = 'ad-more'; btn.type = 'button';
+      btn.addEventListener('click', appendAdPage);
+      wrap.appendChild(btn);
+    }
   }
 
   function uniqueTypes() {
