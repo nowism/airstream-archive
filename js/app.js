@@ -137,10 +137,10 @@
   /* ---------------- Shared shell (header / footer / lightbox) ---------------- */
   var NAV = [
     ['', 'Timeline'], ['models', 'Models'], ['stoves', 'Stoves'],
-    ['caravans', 'Caravans'], ['find', 'Find Yours']
+    ['caravans', 'Caravans'], ['ads', 'Vintage Ads']
   ];
   var NAV_MORE = [
-    ['ads', 'Vintage Ads'], ['books', 'Books'], ['glossary', 'Glossary'], ['about', 'About']
+    ['find', 'Find Yours'], ['books', 'Books'], ['glossary', 'Glossary'], ['about', 'About']
   ];
   function navLinkHTML(item) {
     var pageId = item[0], on = (pageId === '' ? PAGE === 'home' : PAGE === pageId);
