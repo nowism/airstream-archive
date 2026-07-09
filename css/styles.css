@@ -75,6 +75,9 @@ a:hover { text-decoration: underline; }
   display: none; flex-direction: column; z-index: 60;
 }
 .nav-has-sub:hover .nav-sub, .nav-sub.open { display: flex; }
+/* transparent bridge across the 12px gap so hover survives the trip from
+   the "More" button down to the menu links */
+.nav-sub::before { content: ''; position: absolute; top: -18px; left: 0; right: 0; height: 18px; }
 .nav-sub a { display: block; padding: 9px 18px; font-size: .8rem; }
 .nav-sub a:hover { background: var(--paper-2); }
 .nav-menu a.nav-active { color: var(--sunset-2); }
@@ -102,6 +105,7 @@ main { min-height: 62vh; }
   .nav-menu > li > a, .nav-more { display: block; width: 100%; padding: 13px 22px; text-align: left; box-sizing: border-box; }
   .nav-more { display: none; } /* flatten: show sub-items directly */
   .nav-sub { position: static; display: flex; box-shadow: none; border: none; background: transparent; padding: 0; min-width: 0; }
+  .nav-sub::before { display: none; } /* no hover-bridge needed on mobile */
   .nav-sub a { padding: 13px 22px 13px 38px; font-size: .86rem; }
   .nav-sub a:hover { background: rgba(0,0,0,.03); }
 }
