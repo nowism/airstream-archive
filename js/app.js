@@ -41,6 +41,10 @@
   var state = { era: 'all', type: 'all', query: '' };
   var adState = { decade: 'all', cat: 'all' };
   var AD_PAGE = 48; // render ads in batches so hundreds of large scans never mount at once
+  // Public visitor counter (home page). Privacy-clean: the service stores only a
+  // single integer for this key — no cookies, no personal data. Degrades to hidden
+  // if the service is ever unreachable, so nothing on the page breaks.
+  var VISITS_URL = 'https://abacus.jasoncameron.dev/hit/airstreamtrailer-com/visits';
 
   /* Multi-page site: figure out the site root from this script's own URL so
      assets, data and cross-page links work from any folder depth, on any host. */
@@ -180,11 +184,26 @@
     document.body.appendChild(lb);
   }
 
+  /* Fetch and show the public visitor count in the hero (home page only). */
+  function showVisitorCount() {
+    var box = document.getElementById('visit-counter');
+    if (!box) return;
+    fetch(VISITS_URL, { cache: 'no-store' })
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (d) {
+        var n = d && typeof d.value === 'number' ? d.value : null;
+        if (n === null) return;
+        document.getElementById('vc-num').textContent = n.toLocaleString();
+        box.hidden = false;
+      })
+      .catch(function () { /* counter service unreachable — leave the badge hidden */ });
+  }
+
   /* ---------------- Init (per-page dispatch) ---------------- */
   function init() {
     buildShell();
     switch (PAGE) {
-      case 'home': renderHome(); break;
+      case 'home': renderHome(); showVisitorCount(); break;
       case 'models':
         var eraParam = new URLSearchParams(location.search).get('era');
         if (eraParam) state.era = eraParam;
