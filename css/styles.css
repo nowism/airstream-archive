@@ -125,11 +125,10 @@ main { min-height: 62vh; }
 }
 .hero .wrap { position: relative; z-index: 1; }
 .hero-eyebrow { font-family: var(--head); text-transform: uppercase; letter-spacing: .28em; font-size: .78rem; color: var(--sky); margin: 0 0 14px; }
-.visit-counter { display: inline-flex; align-items: baseline; gap: 8px; margin: 0 0 20px; padding: 7px 15px; border: 1px solid rgba(200,103,46,.5); border-radius: 30px; background: rgba(10,22,32,.45); font-family: var(--head); text-transform: uppercase; letter-spacing: .12em; font-size: .74rem; color: var(--sky); }
-.visit-counter .vc-dot { align-self: center; width: 8px; height: 8px; border-radius: 50%; background: var(--sunset); box-shadow: 0 0 0 0 rgba(200,103,46,.7); animation: vc-pulse 2.2s infinite; }
-.visit-counter .vc-num { font-size: 1.05rem; font-weight: 600; letter-spacing: .06em; color: var(--white); }
-@keyframes vc-pulse { 0% { box-shadow: 0 0 0 0 rgba(200,103,46,.6); } 70% { box-shadow: 0 0 0 7px rgba(200,103,46,0); } 100% { box-shadow: 0 0 0 0 rgba(200,103,46,0); } }
-@media (prefers-reduced-motion: reduce) { .visit-counter .vc-dot { animation: none; } }
+.hero-stats .stat.stat-visits b { color: var(--sunset); }
+.hero-stats .stat-visits { animation: vc-fade .5s ease; }
+@keyframes vc-fade { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { .hero-stats .stat-visits { animation: none; } }
 .hero h1 { font-family: var(--head); font-weight: 700; font-size: clamp(2.6rem, 6vw, 5rem); line-height: .98; margin: 0 0 20px; letter-spacing: .01em; }
 .hero h1 em { color: #ffd9a8; font-style: normal; }
 .hero-lead { font-size: clamp(1.02rem, 2vw, 1.28rem); max-width: 640px; color: #cfe0ec; margin: 0 0 30px; font-weight: 300; }

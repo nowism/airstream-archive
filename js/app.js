@@ -184,19 +184,20 @@
     document.body.appendChild(lb);
   }
 
-  /* Fetch and show the public visitor count in the hero (home page only). */
+  /* Fetch the public visit count and add it as a stat in the hero stats row
+     (home page only). Appended only on success, so if the counter service is
+     ever unreachable the stats row simply shows the other four. */
   function showVisitorCount() {
-    var box = document.getElementById('visit-counter');
-    if (!box) return;
+    var hs = document.getElementById('hero-stats');
+    if (!hs || hs.querySelector('.stat-visits')) return;
     fetch(VISITS_URL, { cache: 'no-store' })
       .then(function (r) { return r.ok ? r.json() : null; })
       .then(function (d) {
         var n = d && typeof d.value === 'number' ? d.value : null;
-        if (n === null) return;
-        document.getElementById('vc-num').textContent = n.toLocaleString();
-        box.hidden = false;
+        if (n === null || hs.querySelector('.stat-visits')) return;
+        hs.appendChild(el('div', 'stat stat-visits', '<b>' + n.toLocaleString() + '</b><span>Visits</span>'));
       })
-      .catch(function () { /* counter service unreachable — leave the badge hidden */ });
+      .catch(function () { /* counter service unreachable — skip the visits stat */ });
   }
 
   /* ---------------- Init (per-page dispatch) ---------------- */
