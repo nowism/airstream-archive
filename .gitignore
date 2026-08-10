@@ -14,3 +14,12 @@ Thumbs.db
 *.pem
 *.der
 ops/collector/.env
+
+# Backups, scratch, archives — may contain secrets; never commit
+ops-backups/
+scratch/
+*.tar.gz
+*.tgz
+# Service-account key files (belt-and-suspenders; ops/ is already ignored)
+loyal-landing-*.json
+**/*service_account*.json
